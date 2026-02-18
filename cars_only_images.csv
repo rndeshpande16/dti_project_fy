@@ -1,0 +1,370 @@
+,Company Names,Cars Names,Engines,CC/Battery Capacity,HorsePower,Total Speed,Performance(0 - 100 )KM/H,Cars Prices,Fuel Types,Seats,Torque,image
+1,ROLLS ROYCE,PHANTOM,V12,6749 cc,563 hp,250 km/h,5.3 sec,"$460,000 ",Petrol,5,900 Nm,https://www.hdcarwallpapers.com/download/rolls_royce_phantom_dentelle_2025-2560x1440.jpg
+2,Ford,KA+,1.2L Petrol,"1,200 cc",70-85 hp,165 km/h,10.5 sec,"$12,000-$15,000",Petrol,5,100 - 140 Nm,https://www.carsuk.net/wp-content/gallery/ford-ka/ford-ka-plus-6.jpg
+3,MERCEDES, GT 63 S,V8,"3,982 cc",630 hp,250 km/h,3.2 sec,"$161,000 ",Petrol,4,900 Nm,https://www.hdwallpapers.in/download/black_topcar_mercedes_amg_gt_63_s_4matic__4_door_coupe_inferno_2020_4k_5k_hd_cars-3840x2160.jpg
+5,BMW,Mclaren 720s,V8,"3,994 cc",710 hp,341 km/h,2.9 sec,"$499,000 ",Petrol,2,770 Nm,https://wallpaperaccess.com/full/5329612.jpg
+10,FERRARI,812 GTS,V12,6496 cc,789 hp,340 km/h,2.9 sec,"$350,000 ",Petrol,2,718 Nm,https://www.hdcarwallpapers.com/download/novitec_ferrari_812_gts_2021_4k_8k-5120x2880.jpg
+11,FERRARI,PORTOFINO,V8,"3,900 cc",592 hp,320 km/h,3.2 sec,"$210,000 ",Petrol,2+2,760 Nm,https://wallpaperaccess.com/full/3272187.jpg
+12,FERRARI,ROMA,V8,"3,900 cc",612 hp,320 km/h,3.4 sec,"$230,000 ",Petrol,2+2,760 Nm,https://www.hdwallpapers.in/download/red_ferrari_roma_2021_5_4k_5k_hd_cars-HD.jpg
+15,FERRARI,PORTOFINO M,V8,"3,900 cc",612 hp,320 km/h,3.2 sec,"$220,000 ",Petrol,2+2,760 Nm,https://www.hdcarwallpapers.com/download/ferrari_portofino_m_2021_5k-3840x2160.jpg
+17,TOYOTA,GR SUPRA,I4,"2,998 cc",382 hp,250 km/h,4.1 sec,"$53,900 ",Petrol,2,500 Nm,https://www.hdcarwallpapers.com/download/2021_toyota_gr_supra_a91_edition_4k-3840x2160.jpg
+19,TOYOTA,TOYOTA  GR86,BOXER-4,"2,387 cc",228 hp,226 km/h,5.6 sec,"$30,000 ",Petrol,4,250 Nm,https://images.hdqwalls.com/download/2022-toyota-gr86-premium-5h-1680x1050.jpg
+20,TOYOTA,TOYOTA LAND CRUISER,V8,"5,663 cc",381 hp,220 km/h,6.7 sec,"$85,000 ",Diesel,7,500 Nm,https://www.hdcarwallpapers.com/walls/2020_toyota_land_cruiser_heritage_edition_4k-HD.jpg
+23,NISSAN,370Z,V6,"3,696 cc",332 hp,250 km/h,4.7 sec,"$30,000 ",Petrol,2,366 Nm,https://wallpaperaccess.com/full/1676216.jpg
+25,NISSAN,ALTIMA,I4,"2,488 cc",188 hp,225 km/h,7.3 sec,"$25,000 ",Petrol,5,380 Nm,https://images.alphacoders.com/110/thumb-1920-1100336.jpg
+27,NISSAN,SENTRA,I4,"1,998 cc",149 hp,200 km/h,8.2 sec,"$20,000 ",Petrol,5,240 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/20460/nissan-sentra-sr-2024-725812.jpg
+33,ASTON MARTIN,VALHALLA,V8,"3,996 cc",1000 hp,362 km/h,2.5 sec,"$1,100,000 ",Hybrid,2,1000 Nm,https://www.hdcarwallpapers.com/download/aston_martin_valhalla_2024_8k_2-3840x2160.jpg
+41,ASTON MARTIN,VICTOR,V12,"5,204 cc",836 hp,320 km/h,2.8 sec,"$1,300,000 ",Petrol,2,821 Nm,https://wallpaperaccess.com/full/11265965.jpg
+43,LAMBORGHINI,AVENTADOR SVJ,V12,"6,498 cc",759 hp,350 km/h,2.8 sec,"$518,000 ",Petrol,2,720 Nm,https://www.hdcarwallpapers.com/download/2020_lamborghini_aventador_svj_roadster_4k_5k_3-3840x2160.jpg
+46,LAMBORGHINI,AVENTADOR SV,V12,"6,498 cc",740 hp,350 km/h,2.8 sec,"$493,000 ",Petrol,2,690 Nm,https://www.hdcarwallpapers.com/walls/novitec_torado_lamborghini_aventador_sv_4k-HD.jpg
+48,LAMBORGHINI,HURACAN SPYDER,V10,"5,204 cc",610 hp,325 km/h,3.4 sec,"$287,000 ",Petrol,2,600 Nm,https://www.hdcarwallpapers.com/download/lamborghini_huracan_evo_rwd_spyder_2021_5k-3840x2160.jpg
+52,LAMBORGHINI,HURACAN EVO SPYDER,V10,"5,204 cc",640 hp,325 km/h,3.1 sec,"$287,000 ",Petrol,2,600 Nm,https://www.hdcarwallpapers.com/download/lamborghini_huracan_evo_rwd_spyder_2021_5k-3840x2160.jpg
+56,LAMBORGHINI,AVENTADOR SVJ ROADSTER,V12,"6,498 cc",759 hp,350 km/h,2.9 sec,"$573,000 ",Petrol,2,720 Nm,https://www.hdcarwallpapers.com/download/2020_lamborghini_aventador_svj_roadster_4k_5k_3-3840x2160.jpg
+81,MERCEDES,BENZ CLA 45 AMG,I4,1991 cc,382 hp,250 km/h,4.1 sec,"$53,000 ",Petrol,5,500 Nm,https://www.hdcarwallpapers.com/download/2020_mercedes_amg_cla_45_4matic_aerodynamic_package_4k-3840x2160.jpg
+83,MERCEDES,BENZ S-CLASS S 500,V6,"2,996 cc",429 hp,250 km/h,4.9 sec,"$109,000 ",Petrol,5,700 Nm,https://www.hdcarwallpapers.com/download/mercedes_benz_s_class_s500_4matic_lang_amg_line_2021_5k_2-2560x1440.jpg
+95,MERCEDES,BENZ GLE 53,V6,"2,996 cc",429 hp,250 km/h,5.2 sec,"$71,000 ",Petrol,5,620 Nm,https://wallpaperaccess.com/full/2388579.jpg
+102,BMW,M2 CS,I6,"2,993 cc",444 hp,280 km/h,4.0 sec,"$83,000 ",Petrol,4,550 Nm,https://www.hdcarwallpapers.com/download/bmw_m2_cs_2025-3840x2160.jpg
+106,BMW,M850i DRIVE COUPE,V8,"4,935 cc",523 hp,285 km/h,3.7 sec,"$108,000 ",Petrol,4,750 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/16316/bmw-m850i-g15-coupe-xdrive-2018-516544.jpg
+109,ROLLS ROYCE,PHATOM TRANQUILITY,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$475,000 ",Petrol,5,900 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/17158/rolls-royce-phantom-tranquillity-2019-538978.jpg
+110,ROLLS ROYCE,GHOST ZENITH,V12,"6,749 cc",563 hp,250 km/h,4.9 sec,"$335,000 ",Petrol,5,900 Nm,https://images.hdqwalls.com/download/rolls-royce-ghost-zenith-collection-2019-v1-2560x1440.jpg
+112,ROLLS ROYCE,PHATOM ORCHID,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$495,000 ",Petrol,5,900 Nm,https://www.hdcarwallpapers.com/download/rolls_royce_phantom_orchid_4k_8k-1920x1080.jpg
+114,ROLLS ROYCE,WRAITH KRYPTOS,V12,"6,592 cc",623 hp,250 km/h,4.5 sec,"$369,000 ",Petrol,4,800 Nm,https://www.hdcarwallpapers.com/download/rolls_royce_wraith_kryptos_collection_2020_5k-5120x2880.jpg
+116,ROLLS ROYCE,CULLINAN FUX ORANGE,V12,"6,749 cc",563 hp,250 km/h,5.1 sec,"$401,000 ",Petrol,5,850 Nm,https://images.hdqwalls.com/download/rolls-royce-cullinan-fux-orange-2019-5k-x2-2560x1080.jpg
+122,AUDI,R8 V10 PLUS,V10,"5,204 cc",610 hp,330 km/h,3.2 sec,"$194,000 ",Petrol,2,560 Nm,https://wallpaperaccess.com/full/26949.jpg
+132,AUDI,Q7,V6,"2,995 cc",335 hp,250 km/h,6.3 sec,"$60,000 ",Petrol,7,600 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/20888/audi-q7-2024-751468.jpg
+133,AUDI,Q5,I4,"1,984 cc",248 hp,240 km/h,6.3 sec,"$43,000 ",Petrol,5,500 Nm,https://www.hdcarwallpapers.com/download/audi_q5_55_tfsi_e_quattro_s_line_5k_3-5120x2880.jpg
+139,AUDI,E-TRON,ELECTRIC ,95 kwh,402 hp,200 km/h,5.5 sec,"$75,000 ",Electric,5,664 Nm,https://www.hdwallpapers.in/download/audi_e_tron_gt_blue_electric_luxury_car_4k_hd_cars_2-3840x2160.jpg
+146,BMW,M4 COMPETITION,I6,"2,993 cc",503 hp,290 km/h,3.8 sec,"$81,000 ",Petrol,4,650 Nm,https://www.hdcarwallpapers.com/download/bmw_m4_competition_2020_5k-5120x2880.jpg
+147,BMW,530i,I4,"1,998 cc",248 hp,250 km/h,5.9 sec,"$57,000 ",Petrol,5,400 Nm,https://wallpaperaccess.com/full/8431917.jpg
+158,BMW,114D,I3,"1,496 cc",95 hp,185 km/h,12.2 sec,"$27,000 ",Diesel,5,270 Nm,https://www.mosselmanturbo.com/uploads/cars/detail_default/1200x675/bmw-114d-n47-f20-f21-lci-95hp.jpeg
+161,BMW,118i XDRIVE,I3,"1,499 cc",136 hp,211 km/h,8.9 sec,"$34,000 ",Petrol,5,250 Nm,https://www.hdcarwallpapers.com/download/bmw_118i_m_sport_2019_5k-3840x2160.jpg
+173,BMW,118i URBAN LINE,I3,"1,499 cc",136 hp,213 km/h,8.5 sec,"$35,000 ",Petrol,5,250 Nm,"https://carsales.pxcrush.net/carsales/cars/private/cd514m9sazi677z5ug8wd9ay8.jpg?pxc_format=jpeg&pxc_method=crop&pxc_size=1200,630"
+174,VOLVO,XC90,I6,"1,969 cc",247 hp,200 km/h,6.5 sec,"$60,000 ",Petrol/Diesel,7,400 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/21284/volvo-xc90-t8-2025-787877.jpg
+176,VOLVO,S90,I6,"1,969 cc",295 hp,250 km/h,5.9 sec,"$60,000 ",Petrol/Diesel,5,400 Nm,https://www.hdcarwallpapers.com/download/2017_volvo_s90_4k-2560x1440.jpg
+178,KIA,SPORTAGE EX,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,"$30,000 ",Petrol,5,250 Nm,https://di-uploads-pod19.dealerinspire.com/rontonkinkia/uploads/2024/08/trim-2025-sportage-ex.png
+179,KIA,SPORTAGE GT-LINE,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,"$32,000 ",Petrol,5,350 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/21743/kia-sportage-gt-line-2026-814822.jpg
+181,KIA,SPORTAGE NIGHTFALL EDITION,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,"$33,000 ",Petrol,5,350 Nm,https://di-uploads-pod3.dealerinspire.com/kiacountryofcharleston/uploads/2021/05/kia-sportage-2021-black-edition-304797-1920-1024x683.jpg
+182,HONDA,CIVIC TYPE R,I4,"1,996 cc",315 hp,272 km/h,5.7 sec,"$44,000 ",Petrol,5,400 Nm,https://wallpaperaccess.com/full/2573663.jpg
+188,KIA,SPORTAGE 2024(S TRIM),I4,"2,480 cc",187 hp,200 km/h,8.2 sec,"$28,000 ",Petrol,5,250 Nm,https://www.uk-car-discount.co.uk/img/news/2024/jan/kia_sportage_2024_infra_red.jpg
+192,KIA,SPORTAGE 2024(X-PRO),I4,"2,480 cc",187 hp,200 km/h,8.1 sec,"$36,000 ",Petrol,5,400 Nm,https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/sportage-x-pro-cropped-7.jpg
+193,KIA,SPORTAGE 2024(X-PRO PRESTIGE),I4,"2,480 cc",187 hp,200 km/h,8.1 sec,"$38,000 ",Petrol,5,400 Nm,https://i0.wp.com/kiacarusa.com/wp-content/uploads/2023/01/2024-KIA-Sportage-X-Pro-Prestige.jpg?ssl=1
+206,TOYOTA,TUNDRA,V8,"5,663 cc",381 hp,220 km/h,6.7 sec,"$39,900 ",Petrol,5,650 Nm,https://www.hdcarwallpapers.com/download/2022_toyota_tundra_limited_crewmax_4k_8k_2-1366x768.jpg
+207,TOYOTA,AVALON,V6,"3,456 cc",301 hp,220 km/h,6.9 sec,"$41,400 ",Petrol,5,400 Nm,https://wallpaperaccess.com/full/9416277.jpg
+211,TOYOTA,HIGHLANDER HYBRID,V6,"3,456 cc",240 hp,220 km/h,8.2 sec,"$40,400 ",Hybrid,7,350 Nm,https://static1.topspeedimages.com/wordpress/wp-content/uploads/2025/01/2025-toyota-highlander-hybrid.jpg
+218,TOYOTA,MR2,I4,"1,986 cc",168 hp,200 km/h,6.9 sec,"$29,000 ",Petrol,2,400 Nm,https://wallpaperaccess.com/full/2822149.jpg
+219,TOYOTA,CELICA,I4,"1,986 cc",140 hp,200 km/h,8.5 sec,"$25,000 ",Petrol,5,250 Nm,https://wallpapercave.com/wp/wp4106113.jpg
+222,HYUNDAI,I10,"1.2L,4-CYLINDER,INLINE-4(I4)","1,197 cc",87 hp,160 km/h,12.2 sec,"$12,400 ",Petrol,5,120 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/17533/hyundai-i10-2020-557581.jpg
+228,MARUTI SUZUKI,SWIFT,"1.2L,4-CYLINDER,INLINE-4(I4)","1,197 cc",83 hp,160 km/h,12.2 sec,"$10,400 ",Petrol,5,113 Nm,https://wallpaperaccess.com/full/9105378.jpg
+229,MARUTI SUZUKI,DZIRE,"1.2L,4-CYLINDER,INLINE-4(I4)","1,197 cc",83 hp,160 km/h,12.2 sec,"$11,400 ",Petrol/Diesel,5,113 Nm,https://images.topgear.com.ph/topgear/images/2021/02/01/suzuki-dzire-2021-main-1612162785.jpg
+231,TOYOTA,PRIUS PRIME,"2.0L,4-CYLINDER,WITH HYBRID SYSTEM","1,998 cc",220 hp,180 km/h,6.7 sec,"$31,100 ",Plug-in Hybrid,5,220 Nm,https://www.carscoops.com/wp-content/uploads/2023/10/2024-Toyota-Prius-Prime-22-2048x1152.jpg
+232,TOYOTA,GR COROLLA,"1.6L,TURBOCHARGED INLINE-3","1,618 cc",300 hp,230 km/h,5. 0 sec,"$36,995 ",Petrol,5,370 Nm,https://www.hdcarwallpapers.com/download/toyota_gr_corolla_morizo_edition_2022_5k_2-3840x2160.jpg
+246,TOYOTA,CENTURY SUV,"3.5L,V6,PLUG IN HYBRID","3,456 cc",406 hp,200 km/h,6.0 sec,"$170,000 ",Petrol,5,500 Nm,https://cdn.motor1.com/images/mgl/lE7JvJ/s1/2024-toyota-century-suv-unofficial-rendering.jpg
+251,HYUNDAI,IONIQ 5,ELECTRIC MOTOR,72.6 KWH,225 hp,185 km/h,7.4 sec,"$41,000 ",Electric,5,350 Nm,https://www.hdcarwallpapers.com/download/hyundai_ioniq_5_2021_5k_6-2560x1440.jpg
+256,HYUNDAI,IONIQ 6,Electric Motor,53.6 kwh(Standard Range) / 77.4 kwh(Long Range),320 hp,185 km/h,5.2 sec,"$41,450 ",Electric,5,350 Nm,https://www.hdcarwallpapers.com/walls/hyundai_ioniq_6_2023-HD.jpg
+257,HYUNDAI,Tucson,2.5L Inline-4,"2,500 cc",187 hp,180 km/h,6.1 sec,"$30,500 ",Petrol/Hybrid,5,400 Nm,https://wallpaperaccess.com/full/2206337.jpg
+258,HYUNDAI,Palisade,3.8L V6,"3,800 cc",291 hp,240 km/h,6.3 sec,"$52,000 ",Petrol,7,355 Nm,https://www.hdcarwallpapers.com/download/2023_hyundai_palisade_4k_8k-1920x1080.jpg
+263,HYUNDAI,Veloster,2.0L Inline-4,"2,000 cc",275 hp,220 km/h,6 sec,"$25,000 ",Petrol,4,264 Nm,https://images3.alphacoders.com/117/thumb-1920-1176070.jpg
+265,HYUNDAI,Ioniq,1.6L Inline-4,"1,600 cc",139 hp,160 km/h,8.5 sec,"$18,000 ",Hybrid/Electric,5,295 Nm,https://www.hdcarwallpapers.com/download/hyundai_ioniq_5_2021_5k_6-3840x2160.jpg
+267,HYUNDAI,Azera,3.3L V6,"3,300 cc",278 hp,240 km/h,6.5 sec,"$55,000 ",Petrol,5,250 Nm,https://wallpaperaccess.com/full/3754560.jpg
+268,HYUNDAI,Equus,3.3L V6,"3,300 cc",278 hp,240 km/h,6.5 sec,"$55,000 ",Petrol,5,400 Nm,https://wallpapers.com/images/hd/hyundai-equus-3680-x-2456-wallpaper-eab2a4vtgfcy3vht.jpg
+274,Volkswagen,Jetta,1.5L Turbo I4,1498 cc,150 - 228 hp,210 km/h,7.7 sec,"$21,995 ",Petrol,5,250 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/21192/volkswagen-jetta-2025-768903.jpg
+276,Volkswagen,Arteon,2.0L Turbo I4,1984 cc,150 - 280 hp,250 km/h,5.6 sec,"$46,000 ",Petrol,5,350 Nm,https://www.hdcarwallpapers.com/download/volkswagen_arteon_r_line_2020_5k_6-3840x2160.jpg
+281,Volkswagen,Beetle,2.0L Turbo I4,1984 cc,105 - 210 hp,205 km/h,7.0 sec,"$20,000 ",Petrol,4,240 Nm,https://www.hdcarwallpapers.com/download/2018_volkswagen_beetle_turbo_4k-3840x2160.jpg
+294,Volkswagen,Polo GTI,2.0L Turbo I4,1984 cc,204 hp,238 km/h,6.7 sec,"$28,000 ",Petrol,5,320 Nm,https://www.hdcarwallpapers.com/download/volkswagen_polo_gti_2018_4k-3840x2160.jpg
+295,Volkswagen,Up! GTI,1.0L Turbo I3,999 cc,115 hp,196 km/h,8.8 sec,"$20,000 ",Petrol,4,200 Nm,https://preview-assets-eu-01.kc-usercontent.com/3b3d460e-c5ae-0195-6b86-3ac7fb9d52db/dbe4e40a-5eb6-4e86-b6d6-906383a11ed8/Volkswagen+Up+GTI+(8).jpg?w=1920&q=70&fm=webp&lossless=0
+298,Volkswagen,ID. Buzz Cargo,Electric,77 kWh,204 hp,145 km/h,10.2 sec,"$55,000 ",Electric,3,310 Nm,https://www.netcarshow.com/Volkswagen-ID_Buzz_Cargo-2023-wallpaper.jpg
+301,Volkswagen,Polo BlueMotion,1.2L Diesel I3,1199 cc,75 - 95 hp,190 km/h,10.5 sec,"$22,000 ",Diesel,5,250 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/8403/volkswagen-polo-5-door-bluemotion-2010-307684.jpg
+306,Volkswagen,Arteon 4MOTION,2.0L Turbo I4,1984 cc,190 - 320 hp,250 km/h,5.6 sec,"$48,000 ",Petrol,5,350 Nm,https://www.hdcarwallpapers.com/download/volkswagen_arteon_4motion_r_line_4k_2018_2-3840x2160.jpg
+307,Volkswagen,ID.4 GTX,Electric AWD,77 kWh,299 hp,180 km/h,6.2 sec,"$50,000 ",Electric,5,460 Nm,https://ev-database.org/img/auto/Volkswagen_ID4_GTX_2024/Volkswagen_ID4_GTX_2024-05@2x.jpg
+309,Volkswagen,Golf Variant,1.5L Turbo I4 / 2.0L Diesel I4,1498 cc / 1968 cc,130 - 150 hp,220 km/h,7.5 sec,"$32,000 ",Petrol,5,320 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/21197/volkswagen-golf-viii-r-variant-2025-769020.jpg
+312,Volkswagen,Corrado,2.9L VR6,2861 cc,190 hp,235 km/h,6.4 sec,"$25,000 ",Petrol,4,245 Nm,https://wallpapercave.com/wp/wp14309900.jpg
+313,Volkswagen,Phaeton,3.0L V6 Diesel / 6.0L W12 Gas,2967 cc / 5998 cc,240 - 450 hp,250 km/h,6.1 sec,"$85,000 ",Petrol,5,560 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/2730/volkswagen-phaeton-2008-502172.jpg
+317,Volkswagen,Karmann Ghia,1.2L I4 Gas,1192 cc,34 - 60 hp,138 km/h,23.0 sec,"$25,000 ",Petrol,2,106 Nm,https://images.hdqwalls.com/download/volkswagen-karmann-ghia-3000x2000.jpg
+318,Volkswagen,Fox,1.2L I4 Gas / 1.4L I4 Gas,1198 cc / 1390 cc,55 - 75 hp,148 km/h,17.5 sec,"$12,000 ",Petrol,5,93 Nm,https://www.ultimatespecs.com/cargallery/vw/322/default1.jpg
+322,Volkswagen,Teramont,2.0L I4 Turbo / 3.6L V6 Gas,1984 cc / 3597 cc,235 - 276 hp,190 km/h,8.6 sec,"$32,000 ",Petrol,7,350 Nm,https://www.hdcarwallpapers.com/download/2019_volkswagen_teramont-2560x1440.jpg
+324,Volkswagen,Up! Cabriolet,1.0L I3 Turbo,999 cc,82 - 115 hp,160 km/h,12.4 sec,"$18,000 ",Petrol,4,95 Nm,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJk5yAM1gwEpaCZcK-RT818nwJQu8jrh7bpJqXy4EiG9M5CMV0hc11ELwNYeodFF__yOJkcrfBrLPaMYWvGy_Ph_DCxu-X9ROw_l4CAagU5jkKw8AXU_eVzJRWUiDEv7MbIDc39_jwxs/s1600/up+cab+version+3+fertig.jpg
+325,Volkswagen,T-Roc Cabriolet,1.0L I3 Turbo / 1.5L I4 Turbo,999 cc / 1498 cc,115 - 150 hp,205 km/h,9.6 sec,"$35,000 ",Petrol,4,250 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/19270/volkswagen-t-roc-cabriolet-2022-666629.jpg
+328,Volkswagen,Amarok V6,3.0L V6 Turbo Diesel,2967 cc,204 - 258 hp,191 km/h,7.9 sec,"$45,000 ",Diesel,5,580 Nm,https://wallpaperaccess.com/full/4583628.jpg
+330,Volkswagen,Polo TDI,1.4L I4 Diesel / 1.6L Diesel,1390 cc / 1598 cc,75 - 105 hp,190 km/h,9.9 sec,"$20,000 ",Diesel,5,250 Nm,https://wallpaperaccess.com/full/2191032.jpg
+331,Volkswagen,Golf GTE,Plug-in Hybrid (1.4L I4 Turbo),1395 cc + Electric Motor,204 hp,222 km/h,7.6 sec,"$40,000 ",Hybrid,5,350 Nm,https://www.hdwallpapers.in/download/volkswagen_golf_gte_skylight_2021_4k_hd_cars-3840x2160.jpg
+332,Volkswagen,Touareg V8,4.0L V8 Turbo Diesel,3956 cc,421 hp,250 km/h,4.9 sec,"$70,000 ",Petrol,5,770 Nm,https://www.hdcarwallpapers.com/download/volkswagen_touareg_v8_tdi_last_edition_2020_5k-3840x2160.jpg
+338,Volkswagen,Jetta GLI,2.0L I4 Turbo,1984 cc,228 hp,250 km/h,6.5 sec,"$31,000 ",Petrol,5,350 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/18636/volkswagen-jetta-gli-2021-618485.jpg
+342,Volkswagen,Passat B7,1.6L Diesel / 2.0L I4 Turbo,1598 cc / 1984 cc,120 - 240 hp,220 km/h,8.5 sec,"$26,000 ",Petrol,5,280 Nm,https://wallpapercave.com/wp/wp8558641.jpg
+343,Volkswagen,Scirocco 16V,1.8L I4 Gas,1781 cc,137 hp,220 km/h,7.1 sec,"$35,000 ",Petrol,4,230 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/2557/volkswagen-scirocco-gtx-16v-1986-242558.jpg
+344,Volkswagen,Polo BlueMotion,1.2L Diesel I3,1199 cc,75 - 95 hp,190 km/h,10.5 sec,"$20,000 ",Diesel,5,210 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/8403/volkswagen-polo-5-door-bluemotion-2010-307684.jpg
+345,Volkswagen,Golf Variant GTD,2.0L Diesel I4,1968 cc,184 hp,230 km/h,7.5 sec,"$38,000 ",Diesel,5,380 Nm,https://wallpaperaccess.com/full/10832068.jpg
+350,Volkswagen,Volkswagen XL1,Plug-in Hybrid (0.8L I2 Diesel),800 cc + Electric Motor,68 hp,160 km/h,11.9 sec,"$150,000 ",Hybrid,2,140 Nm,https://www.hdcarwallpapers.com/walls/volkswagen_xl1_concept_2018_3-HD.jpg
+351,Volkswagen,Golf TDI,2.0L Diesel I4,1968 cc,150 - 184 hp,220 km/h,8.0 sec,"$28,000 ",Diesel,5,350 Nm,https://pictures.topspeed.com/IMG/jpg/201407/volkswagen-golf-tdi-5.jpg
+352,Volkswagen,Passat Variant,1.5L I4 Turbo / 2.0L Diesel,1498 cc / 1968 cc,150 - 240 hp,220 km/h,8.5 sec,"$30,000 ",Petrol,5,280 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/20601/volkswagen-passat-variant-r-line-2024-755627.jpg
+356,Volkswagen,Arteon R-Line,2.0L I4 Turbo,1984 cc,190 - 280 hp,250 km/h,5.6 sec,"$50,000 ",Petrol,5,420 Nm,https://www.hdcarwallpapers.com/walls/2017_volkswagen_arteon_r_line-HD.jpg
+357,Volkswagen,Golf TGI,1.5L I4 CNG,1498 cc,130 hp,220 km/h,8.8 sec,"$30,000 ",Petrol,5,200 Nm,https://uploads.vw-mms.de/system/production/images/vwn/034/851/images/18d86c728d006cecb81f32beff8f8bf35af523c2/DB2020AU01699_web_1600.jpg?1649156934
+359,Volkswagen,Caddy Maxi,2.0L Diesel I4,1968 cc,122 - 150 hp,180 km/h,12.0 sec,"$25,000 ",Diesel,7,250 Nm,https://images.carexpert.com.au/resize/3000/-/app/uploads/2024/11/2025-Volkswagen-Caddy-Life-Maxi-review-10.jpg
+361,Volkswagen,Polo Beats,1.0L I3 Turbo,999 cc,95 hp,187 km/h,9.5 sec,"$22,000 ",Petrol,5,175 Nm,https://www.hdcarwallpapers.com/download/2017_volkswagen_polo_beats_4k-3840x2160.jpg
+363,Volkswagen,Golf TCR,2.0L I4 Turbo,1984 cc,290 hp,250 km/h,5.6 sec,"$40,000 ",Petrol,5,370 Nm,https://www.hdcarwallpapers.com/walls/volkswagen_golf_gti_tcr_2016_4k-HD.jpg
+372,Volkswagen,Jetta SportWagen,1.4L I4 Turbo / 2.0L Diesel I4,1395 cc / 1968 cc,147 - 150 hp,200 km/h,8.5 sec,"$27,000 ",Petrol,5,250 Nm,https://vexstockimages.fastly.carvana.io/stockimages/2012_VOLKSWAGEN_JETTA+SPORTWAGEN_2.0L+TDI+SPORT+WAGON+4D_BLACK_stock_desktop_1920x1080.png?v=1645488220.421&quality=100&width=1080
+373,Volkswagen,Polo GTI Plus,2.0L I4 Turbo,1984 cc,207 hp,237 km/h,6.7 sec,"$30,000 ",Petrol,5,320 Nm,https://media.gettyimages.com/id/1227524072/photo/mk6-volkswagen-polo-gti-plus-in-flash-red-paint.jpg?s=612x612&w=gi&k=20&c=D87JotFrhIoEGYcr9pG8ZLkJmqPGovgVI28hWiXln24=
+374,Volkswagen,Touareg V6,3.0L V6 Turbo Diesel / Gasoline,2967 cc,231 - 340 hp,235 km/h,7.5 sec,"$60,000 ",Petrol,5,450 Nm,https://www.hdcarwallpapers.com/download/volkswagen_touareg_v6_tdi_r_line_edition_20_2022_5k-1280x720.jpg
+375,Volkswagen,Tiguan eHybrid,1.4L I4 Turbo + Electric Motor,1395 cc + Battery,245 hp,200 km/h,7.5 sec,"$42,000 ",Hybrid,5,400 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/19200/volkswagen-tiguan-r-line-ehybrid-uk-version-2021-648686.jpg
+376,Volkswagen,Up! e-up!,Electric,32.3 kWh,83 hp,130 km/h,11.9 sec,"$23,000 ",Electric,4,210 Nm,https://www.topgear.com/sites/default/files/cars-car/carousel/2020/04/e-up-25162_0.jpg
+378,Volkswagen,Golf R Cabriolet,2.0L I4 Turbo,1984 cc,265 hp,250 km/h,5.9 sec,"$45,000 ",Petrol,4,380 Nm,https://www.wallpaperbetter.com/wallpaper/930/347/770/2013-volkswagen-golf-r-cabriolet-wallpaper-2K.jpg
+379,Volkswagen,Passat Alltrack TDI,2.0L Diesel I4,1968 cc,190 hp,220 km/h,8.0 sec,"$40,000 ",Diesel,5,400 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/17063/volkswagen-passat-alltrack-2020-549204.jpg
+380,Volkswagen,ID. Buzz Cargo EV,Electric,77 kWh,204 hp,145 km/h,10.2 sec,"$55,000 ",Electric,2,310 Nm,https://www.netcarshow.com/Volkswagen-ID_Buzz_Cargo-2023-wallpaper.jpg
+385,Nissan,Murano,3.5L V6,3498 cc,260 HP,210 km/h,7.5 sec,"$39,000 ",Petrol,5,325 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/16540/nissan-murano-2018-499948.jpg
+389,Nissan,X-Trail,1.5L Turbocharged Inline-3,1498 cc,201 HP,200 km/h,8.0 sec,"$29,000 ",Hybrid,5,305 Nm,https://images.carexpert.com.au/resize/1600/-/cms/v1/media/240711_Nissan+X-Trail+N-Trek+4WD+MY24_Still-4.jpg
+390,Nissan,Z (Fairlady Z),3.0L Twin-Turbo V6,2997 cc,400 HP,250 km/h,4.5 sec,"$40,000 ",Petrol,2,475 Nm,https://www.hdcarwallpapers.com/download/nissan_fairlady_z_proto_spec_2022_4k_8k-5120x2880.jpg
+392,Nissan,Sylphy,1.8L Inline-4,1798 cc,137 HP,190 km/h,9.6 sec,"$18,000 ",Petrol,5,174 Nm,https://wallpapercave.com/wp/wp10914811.jpg
+399,Nissan,Xterra,4.0L V6,3954 cc,261 HP,200 km/h,7.8 sec,"$35,000 ",Petrol,7,381 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/4528/nissan-xterra-2010-268185.jpg
+400,Nissan,Patrol,5.6L V8,5552 cc,400 HP,210 km/h,7.3 sec,"$77,000 ",Petrol,7,560 Nm,https://wallpaperaccess.com/full/1865508.jpg
+405,Nissan,Infiniti QX80*,5.6L V8,5552 cc,400 HP,210 km/h,6.5 sec,"$70,600 ",Petrol,7,560 Nm,https://www.hdcarwallpapers.com/download/infiniti_qx80_autograph_awd_2025_5k-3840x2160.jpg
+412,Nissan,X-Trail Hybrid,2.0L Inline-4 Hybrid,1997 cc,179 HP,180 km/h,9.4 sec,"$28,500 ",Hybrid,5,207 Nm,"https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/cms/uploads/yj3vbrioducfnaojsbis"
+413,Nissan,Pathfinder Rock Creek,3.5L V6,3498 cc,284 HP,190 km/h,7.4 sec,"$42,820 ",Petrol,7,351 Nm,https://img.sm360.ca/images/newcar/ca/2025/nissan/pathfinder/rock-creek/suv/exteriorColors/2025_nissan_pathfinder_3-rock-creek_ext_032_xkj.png
+415,Nissan,Terrano XL,1.6L Inline-4,1598 cc,104 HP,165 km/h,12.5 sec,"$14,000 ",Petrol,5,145 Nm,http://stat.overdrive.in/wp-content/odgallery/2017/06/36049_NissanTerrano-AMT-028.JPG
+416,Nissan,GT-R50 by Italdesign,3.8L Twin-Turbo V6,3799 cc,720 HP,315 km/h,2.5 sec,"$1,100,000 ",Petrol,2,780 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/17768/nissan-gt-r50-by-italdesign-2020-669939.jpg
+417,Nissan,370Z NISMO,3.7L V6,3696 cc,350 HP,250 km/h,5.2 sec,"$45,790 ",Petrol,2,374 Nm,https://www.hdcarwallpapers.com/download/2015_nissan_370z_nismo-2560x1440.jpg
+418,Nissan,Ariya E-4ORCE,Dual Electric Motors,87 kWh,389 HP,200 km/h,5.1 sec,"$60,000 ",Electric,5,600 Nm,https://www.hdcarwallpapers.com/download/nissan_ariya_e_4orce_2020_4k-3840x2160.jpg
+421,Nissan,Primera,2.0L Inline-4,1998 cc,140 HP,200 km/h,9.6 sec,"$20,000 ",Petrol,5,190 Nm,https://wallup.net/wp-content/uploads/2019/09/1034155-nissan-primera-hatchback-2002.jpg
+423,Nissan,Cedric,2.0L Inline-6,1998 cc,150 HP,190 km/h,10.5 sec,"$22,000 ",Petrol,5,190 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/5659/nissan-cedric-y34--1999-281481.jpg
+426,Nissan,Patrol Super Safari,4.8L Inline-6,4750 cc,280 HP,190 km/h,8.2 sec,"$55,000 ",Petrol,7,451 Nm,https://www.plantmachineryvehicles.com/cloud/2024/03/29/2024-Nissan-Patrol-Super-Safari-Al-Ostoura-Edition-1-scaled.jpeg
+429,Nissan,Rogue Platinum,1.5L Turbo Inline-3,1497 cc,201 HP,180 km/h,8.2 sec,"$38,000 ",Petrol,5,300 Nm,https://img.sm360.ca/images/newcar/ca/2025/nissan/rogue/platinum/suv/exteriorColors/2025_nissan_rogue_platine_014_xew.png
+430,Nissan,Qashqai Tekna,1.3L Turbo Hybrid Inline-4,1332 cc,158 HP,190 km/h,9.2 sec,"$36,000 ",Hybrid,5,270 Nm,https://mediacloud.carbuyer.co.uk/image/private/s--ZBWHLSgr--/v1579625775/carbuyer/nissan-qashqai-tekna-3_0.jpg
+432,Nissan,Skyline NISMO,3.0L Twin-Turbo V6,2997 cc,420 HP,270 km/h,4.7 sec,"$55,000 ",Petrol,5,475 Nm,https://img.goodfon.com/original/1024x1024/5/f4/nissan-skyline-nismo-nissan-skyline-nismo-skailain-nismo-n-3.jpg
+443,Nissan,Patrol Desert Edition,5.6L V8,5552 cc,428 HP,210 km/h,6.5 sec,"$95,000 ",Petrol,7,560 Nm,https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_middle_east/vehicles/Patrol22/MY23/NMEF-V8-EN-text-D.jpg
+446,Nissan,GT-R Black Edition,3.8L Twin-Turbo V6,3799 cc,600 HP,330 km/h,2.8 sec,"$185,000 ",Petrol,2,652 Nm,https://wallpaperaccess.com/full/3017047.jpg
+447,Nissan,Fairlady Z Heritage,3.0L Twin-Turbo V6,2997 cc,400 HP,250 km/h,4.2 sec,"$48,000 ",Petrol,2,475 Nm,https://www.hdcarwallpapers.com/download/2018_nissan_fairlady_z_heritage_edition_4k-3840x2160.jpg
+448,Nissan,Skyline GT-R R34,2.6L Twin-Turbo Inline-6,2568 cc,276 HP,250 km/h,5.6 sec,"$70,000 ",Petrol,4,392 Nm,https://wallpaperaccess.com/full/2258581.jpg
+449,Nissan,Ariya Premiere,Dual Electric Motors,87 kWh,389 HP,200 km/h,5.1 sec,"$67,000 ",Electric,5,600 Nm,https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=24618015237823612
+450,Nissan,Infiniti QX55*,2.0L VC-Turbo Inline-4,1997 cc,268 HP,230 km/h,6.5 sec,"$50,000 ",Petrol,5,380 Nm,https://www.hdcarwallpapers.com/download/2022_infiniti_qx55_awd_5k-2560x1440.jpg
+454,Nissan,Evalia,1.5L Inline-4 Diesel,1461 cc,85 HP,140 km/h,15.0 sec,"$25,000 ",Diesel,7,200 Nm,https://stat.overdrive.in/wp-content/odgallery/2014/09/20358_Evalia_1.jpg
+455,Nissan,Cabstar,2.5L Inline-4 Diesel,2488 cc,130 HP,145 km/h,14.8 sec,"$27,000 ",Diesel,3,350 Nm,https://pictures.topspeed.com/IMG/jpg/201203/2008-nissan-cabstar-12.jpg
+457,Nissan,Laurel,2.8L Inline-6 Diesel,2825 cc,94 HP,160 km/h,12.5 sec,"$22,000 ",Diesel,5,184 Nm,https://wallpaperaccess.com/full/9292794.jpg
+461,Nissan,Patrol Super Safari Y61,4.8L Inline-6,4750 cc,280 HP,190 km/h,8.2 sec,"$58,000 ",Petrol,7,451 Nm,https://autodrift.ae/wp-content/uploads/2022/08/DSC_7193-Edit.jpg
+468,Nissan,Infiniti G37*,3.7L V6,3696 cc,328 HP,250 km/h,5.5 sec,"$42,000 ",Petrol,5,365 Nm,https://wallpaperaccess.com/full/4106981.jpg
+469,Nissan,Patrol Black Edition,5.6L V8,5552 cc,400 HP,200 km/h,6.5 sec,"$85,000 ",Petrol,7,560 Nm,https://mir-s3-cdn-cf.behance.net/project_modules/1400/ced79328535925.55c4b8a688df3.jpg
+473,Nissan,300ZX,3.0L Twin-Turbo V6,2960 cc,300 HP,250 km/h,5.9 sec,"$50,000 ",Petrol,4,384 Nm,https://wallpaperaccess.com/full/2951749.jpg
+474,Nissan,R390 GT1 Road Car,3.5L Twin-Turbo V8,3495 cc,550 HP,354 km/h,3.3 sec,"$1,000,000 ",Petrol,2,637 Nm,https://wallup.net/wp-content/uploads/2019/09/873383-nissan-r390-gt1-race-racing-lemans-le-mans-supercar-748x499.jpg
+476,Nissan,Hardbody Truck,2.4L Inline-4,2389 cc,134 HP,160 km/h,10.6 sec,"$25,000 ",Petrol,5,206 Nm,https://static1.topspeedimages.com/wordpress/wp-content/uploads/2024/03/nissan-hardbody-side-profile.jpg
+477,Nissan,Atlas,3.0L Inline-4 Diesel,2999 cc,130 HP,130 km/h,18.0 sec,"$35,000 ",Diesel,3,300 Nm,https://mobilkomersial.com/wp-content/uploads/2023/10/atlas_2t_2309_top_usp_pc_02.jpg.ximg_.l_full_m.smart_-750x375.jpg
+478,Nissan,Clipper,660cc Inline-3,659 cc,48 HP,110 km/h,18.5 sec,"$10,000 ",Petrol,4,62 Nm,https://wieck-nissanao-production.s3.amazonaws.com/photos/2e2f8edc54aa37ecaa380a69bea260d999e1489e/preview-768x432.jpg
+480,Nissan,Violet,1.8L Inline-4,1770 cc,85 HP,155 km/h,13.8 sec,"$18,000 ",Petrol,5,130 Nm,https://www.desktophut.com/images/1723625466.webp
+486,Nissan,Pathfinder Armada Platinum,5.6L V8,5552 cc,400 HP,190 km/h,6.8 sec,"$70,000 ",Petrol,7,560 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/21283/nissan-armada-platinum-reserve-2025-773363.jpg
+489,Nissan,Qashqai e-Power,1.5L Hybrid,1497 cc,187 HP,200 km/h,7.5 sec,"$40,000 ",Hybrid,5,330 Nm,https://www.diariomotor.com/imagenes/2025/06/Nissan-Qashqai-ePower-2025-6-685e86d244138.jpg?class=OG
+490,Nissan,GT-R Egoist,3.8L Twin-Turbo V6,3799 cc,565 HP,315 km/h,2.8 sec,"$220,000 ",Petrol,2,637 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/7681/nissan-gt-r-r35-egoist-2011-300772.jpg
+491,Nissan,Infiniti M45*,4.5L V8,4494 cc,325 HP,250 km/h,5.8 sec,"$50,000 ",Petrol,5,451 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/495/infiniti-m45-concept-2004-485509.jpg
+494,Nissan,Patrol Legend Edition,5.6L V8,5552 cc,428 HP,205 km/h,6.3 sec,"$95,000 ",Petrol,7,580 Nm,"https://carsales.pxcrush.net/carsales/car/dealer/c64c5aa704bf429f96f3e4afef9b5cfc.jpg?pxc_format=jpeg&pxc_method=crop&pxc_size=1200,630"
+498,Nissan,300ZX Turbo,3.0L Twin-Turbo V6,2960 cc,300 HP,250 km/h,5.9 sec,"$55,000 ",Petrol,4,384 Nm,https://wallpaperaccess.com/full/2951897.jpg
+503,Nissan,Serena e-Power,1.2L Hybrid,1198 cc,134 HP,160 km/h,12.0 sec,"$35,000 ",Hybrid,7,320 Nm,https://paultan.org/image/2022/11/Nissan-Serena-C28-e-Power-1.jpg
+512,Nissan,Patrol Y60,4.2L Inline-6,4169 cc,155 HP,160 km/h,12.0 sec,"$45,000 ",Diesel,7,330 Nm,https://wallpaperaccess.com/full/1865485.jpg
+514,Nissan,Terrano Regulus,3.3L V6,3275 cc,170 HP,175 km/h,10.0 sec,"$28,000 ",Petrol,5,290 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/12525/nissan-terrano-jr50-regulus-1997-378150.jpg
+518,Nissan,Gloria Gran Turismo,3.0L V6 Turbo,2960 cc,255 HP,220 km/h,6.5 sec,"$50,000 ",Petrol,5,340 Nm,http://img.favcars.com/nissan/gloria/nissan_gloria_1991_pictures_1.jpg
+529,Porsche,Panamera 4,2.9L V6 Twin Turbo,2894 cc,330 HP,270 km/h,5.4 sec,"$92,000 ",Petrol,4,450 Nm,https://www.hdcarwallpapers.com/download/porsche_panamera_4s_e_hybrid_2020_5k_3-3840x2160.jpg
+530,Porsche,Panamera 4S,2.9L V6 Twin Turbo,2894 cc,440 HP,289 km/h,4.4 sec,"$105,000 ",Petrol,4,550 Nm,https://www.hdcarwallpapers.com/download/porsche_panamera_4s_e_hybrid_executive_2021_5k-3840x2160.jpg
+535,Porsche,Panamera 4 E-Hybrid Sport Turismo,2.9L V6 + Electric Motor,17.9 kWh Battery,455 HP,280 km/h,4.4 sec,"$120,000 ",Hybrid (Petrol),4,700 Nm,https://www.hdwallpapers.in/download/porsche_panamera_4_e_hybrid_sport_turismo_2020_3_4k_hd_cars-3840x2160.jpg
+536,Porsche,Panamera Turbo S E-Hybrid,4.0L V8 + Electric Motor,17.9 kWh Battery,690 HP,315 km/h,3.2 sec,"$190,000 ",Hybrid (Petrol),4,870 Nm,https://www.hdwallpapers.in/download/porsche_panamera_turbo_s_e_hybrid_executive_2021_4k_5k_hd_cars-2560x1440.jpg
+537,Porsche,Panamera 4 Executive,2.9L V6 Twin Turbo,2894 cc,330 HP,270 km/h,5.6 sec,"$95,000 ",Petrol,4,450 Nm,https://www.hdcarwallpapers.com/download/porsche_panamera_4s_e_hybrid_executive_2021_5k-3840x2160.jpg
+543,Porsche,Cayenne Turbo S E-Hybrid,4.0L V8 + Electric Motor,17.9 kWh Battery,670 HP,295 km/h,3.6 sec,"$170,000 ",Hybrid (Petrol),5,900 Nm,https://www.hdwallpapers.in/download/porsche_cayenne_turbo_s_e_hybrid_coupe_2020_4k_hd_cars-HD.jpg
+547,Porsche,Macan T,2.0L I4 Turbo,1984 cc,261 HP,232 km/h,6.2 sec,"$65,000 ",Petrol,5,400 Nm,https://www.hdcarwallpapers.com/download/porsche_macan_t_2022_4k_7-2560x1440.jpg
+548,Porsche,911 Carrera,3.0L Flat-6 Twin Turbo,2981 cc,379 HP,293 km/h,4.2 sec,"$110,000 ",Petrol,4,450 Nm,https://www.hdcarwallpapers.com/walls/porsche_911_carrera_4s_2019_4k_11-HD.jpg
+550,Porsche,911 Carrera 4,3.0L Twin-Turbo Flat-6,2981 cc,379 hp,293 km/h,4.2,"$106,500 ",Petrol,4,450 Nm,https://www.hdcarwallpapers.com/walls/porsche_911_carrera_4s_2019_4k_11-HD.jpg
+551,Porsche,911 Carrera 4S,3.0L Twin-Turbo Flat-6,2981 cc,443 hp,306 km/h,3.4,"$113,300 ",Petrol,4,528 Nm,https://www.hdcarwallpapers.com/download/porsche_911_carrera_4s_2019_4k_9-3840x2160.jpg
+552,Porsche,911 Targa 4,3.0L Twin-Turbo Flat-6,2981 cc,379 hp,289 km/h,4.4,"$121,300 ",Petrol,4,450 Nm,https://www.hdcarwallpapers.com/download/porsche_911_targa_4_2020_4k-3840x2160.jpg
+556,Porsche,911 GT3 RS,4.0L Naturally Aspirated Flat-6,3996 cc,518 hp,296 km/h,3.2,"$241,300 ",Petrol,2,465 Nm,https://www.hdcarwallpapers.com/download/porsche_911_gt3_rs_5k_2-2560x1440.jpg
+557,Porsche,911 Dakar,3.0L Twin-Turbo Flat-6,2981 cc,473 hp,240 km/h,3.4,"$222,000 ",Petrol,2,570 Nm,https://www.hdcarwallpapers.com/download/porsche_911_dakar_rallye_design_package_2022_5k-2560x1440.jpg
+559,Porsche,Taycan 4S,Dual Electric Motors,79.2 kWh,522 hp,250 km/h,4,"$103,800 ",Electric,4,640 Nm,https://www.hdcarwallpapers.com/download/porsche_taycan_4s_sport_turismo_2022_4k_8k-3840x2160.jpg
+564,Porsche,Taycan Sport Turismo,Dual Electric Motors,79.2 kWh,509 hp,240 km/h,4.1,"$104,000 ",Electric,5,650 Nm,https://www.hdcarwallpapers.com/download/porsche_taycan_gts_sport_turismo_2021_4k-3840x2160.jpg
+565,Porsche,718 Cayman,2.0L Turbocharged Flat-4,1988 cc,300 hp,275 km/h,4.9,"$63,400 ",Petrol,2,380 Nm,https://www.hdcarwallpapers.com/download/porsche_718_cayman_gt4_rs_2022_4k_8k-5120x2880.jpg
+568,Porsche,718 Cayman GT4 RS,4.0L Naturally Aspirated Flat-6,3996 cc,493 hp,315 km/h,3.2,"$141,700 ",Petrol,2,450 Nm,https://www.hdcarwallpapers.com/download/porsche_718_cayman_gt4_rs_2021_4k_2-2560x1440.jpg
+569,Porsche,718 Boxster,2.0L Turbo Flat-4,1988 cc,300 hp,275 km/h,4.9,"$65,500 ",Petrol,2,380 Nm,https://www.hdcarwallpapers.com/download/2019_porsche_718_boxster_gts_4k-3840x2160.jpg
+570,Porsche,718 Boxster T,2.0L Turbo Flat-4,1988 cc,300 hp,275 km/h,4.7,"$69,600 ",Petrol,2,380 Nm,https://www.hdcarwallpapers.com/download/2021_porsche_718_boxster_t_5k_4-1920x1080.jpg
+574,Porsche,Panamera 4 E-Hybrid,2.9L Twin-Turbo V6 + Electric Motor,2894 cc,462 hp,280 km/h,4.4,"$113,300 ",Hybrid,4,700 Nm,https://www.hdwallpapers.in/download/porsche_panamera_4_e_hybrid_platinum_edition_2_4k_5k_hd_cars-3840x2160.jpg
+575,Porsche,Panamera 4 Sport Turismo,2.9L Twin-Turbo V6,2894 cc,325 hp,265 km/h,5.5,"$101,400 ",Petrol,4,450 Nm,https://www.hdwallpapers.in/download/porsche_panamera_4_e_hybrid_sport_turismo_2020_3_4k_hd_cars-3840x2160.jpg
+579,Porsche,Panamera GTS Sport Turismo,4.0L Twin-Turbo V8,3996 cc,473 hp,300 km/h,3.9,"$136,900 ",Petrol,4,620 Nm,https://www.hdcarwallpapers.com/download/porsche_panamera_gts_sport_turismo_2018_4k_2-3840x2160.jpg
+584,Porsche,Macan T,2.0L Turbo Inline-4,1984 cc,265 hp,233 km/h,6.2,"$63,000 ",Petrol,5,400 Nm,https://www.hdcarwallpapers.com/download/porsche_macan_t_2022_4k_7-2560x1440.jpg
+585,Porsche,Macan S,2.9L Twin-Turbo V6,2894 cc,375 hp,259 km/h,4.6,"$70,400 ",Petrol,5,520 Nm,https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U0%z8rMHIspbWvanYb%5y%oq%vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7ZB4x7e2HtpQDcFGIxXYnfurE005yPew9W9CvNzxvK8GXoq1XB0r6FObLpEwRuT0TpDx7e2HXnX1UzQK7zibsqYSN35yPewlo1CvNzxKjYGXoq1Seqr6FObT5SwRuT0st4x7Jv5c0jQvpjs78xkj5Vb2rEUA6efcRHv
+589,Porsche,Cayenne E-Hybrid,3.0L V6 + Electric Motor,2995 cc,455 hp,253 km/h,4.8,"$91,000 ",Hybrid,5,700 Nm,https://images.dailyrevs.com/0000/v3/Porsche/64eeb270c3a731532724c24d/2024-cayenne-turbo-e-hybrid-porsche-abik04ca53tx1b0p.jpeg
+593,Porsche,Cayenne Turbo S E-Hybrid Coupe,4.0L Twin-Turbo V8 + Electric Motor,3996 cc,670 hp,295 km/h,3.6,"$167,800 ",Hybrid,4,900 Nm,https://www.hdwallpapers.in/download/porsche_cayenne_turbo_s_e_hybrid_coupe_2020_4k_hd_cars-HD.jpg
+599,Cadillac,CT4,2.0L Turbo Inline-4 Gasoline,2000 cc,237 hp,250 km/h,6.0 sec,"$34,395 ",Petrol,5,350 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/18662/cadillac-ct4-v-blackwing-2022-701192.jpg
+601,Cadillac,CT5,2.0L Turbo Inline-4 Gasoline,2000 cc,237 hp,240 km/h,6.6 sec,"$38,195 ",Petrol,5,350 Nm,https://www.hdcarwallpapers.com/download/cadillac_ct5_v_blackwing_2025-3840x2160.jpg
+604,Porsche,Taycan Cross Turismo GTS,Dual Electric Motors,93.4 kWh,590 hp,250 km/h,3.8 sec,"$139,400 ",Electric,4,620 Nm,https://www.hdwallpapers.in/download/porsche_taycan_gts_sport_turismo_2021_4k_hd_cars-3840x2160.jpg
+606,Porsche,Taycan Sport Turismo GTS,Dual Electric Motors,93.4 kWh,590 hp,250 km/h,3.7 sec,"$136,700 ",Electric,4,620 Nm,https://www.hdcarwallpapers.com/download/porsche_taycan_gts_sport_turismo_2021_4k-3840x2160.jpg
+610,Porsche,911 Carrera 4,3.0L Twin-Turbo Flat-6,2981 cc,379 hp,293 km/h,4.4 sec,"$113,300 ",Petrol,4,450 Nm,https://www.hdcarwallpapers.com/walls/porsche_911_carrera_4s_2019_4k_11-HD.jpg
+611,Porsche,911 Carrera 4 GTS,3.0L Twin-Turbo Flat-6,2981 cc,473 hp,311 km/h,3.3 sec,"$137,000 ",Petrol,4,570 Nm,https://s1.cdn.autoevolution.com/images/gallery/porsche-911-carrera-4-gts-992-2024-7779_15.jpg
+614,Porsche,911 Turbo S Coupe,3.8L Twin-Turbo Flat-6,3745 cc,640 hp,330 km/h,2.7 sec,"$207,000 ",Petrol,4,800 Nm,https://images.hdqwalls.com/wallpapers/porsche-911-turbo-s-car-s0.jpg
+619,Porsche,911 Targa 4 Lightweight,3.0L Twin-Turbo Flat-6,2981 cc,379 hp,289 km/h,4.3 sec,"$135,500 ",Petrol,4,450 Nm,"https://images-porsche.imgix.net/-/media/4FA5DF07C3CB4014A72F7F05E9739EC5_5060326890D941E5B6B6C00FCFE4A6B6_CZ26W07OX0001-911-targa-4s-side-view?w=2560&h=1440&q=85&crop=faces,entropy,edges&auto=format"
+622,Porsche,911 GT3 Cup,4.0L Naturally Aspirated Flat-6,3996 cc,510 hp,290 km/h,3.4 sec,"$245,000 ",Petrol,1,470 Nm,https://www.hdcarwallpapers.com/download/porsche_911_gt3_cup_2021_4k-3840x2160.jpg
+625,Porsche,911 Sport Turismo,3.0L Twin-Turbo Flat-6,2981 cc,379 hp,293 km/h,4.4 sec,"$116,000 ",Petrol,4,450 Nm,https://www.hdcarwallpapers.com/download/porsche_911_gt3_8k-5120x2880.jpg
+629,Tata Motors,Tiago EV,Permanent Magnet Synchronous,24 kWh,74 hp,120 km/h,5.7 sec,"$11,000 ",Electric,5,114 Nm,https://img-cdn.evfy.in/products/Tata+Tiago+EV+2025(Primary).webp
+635,Tata Motors,Nano GenX,624cc MPFI,624 cc,37 hp,105 km/h,29 sec,"$4,000 ",Petrol,4,51 Nm,"https://etimg.etb2bimg.com/thumb/msid-47069442,imgsize-27076,width-1200,height=765,overlay-etauto/tata-motors-unveiled-new-genx-nano-on-facebook.jpg"
+636,Tata Motors,Indica eV2,1.4L CR4 Diesel,1396 cc,70 hp,155 km/h,16 sec,"$6,200 ",Diesel,5,140 Nm,https://auto.economictimes.indiatimes.com/files/retail_files/indica-ev2-1504081883-prod-var.png
+640,Tata Motors,Zest,1.3L Quadrajet Diesel / 1.2L Revotron Petrol,1248 cc / 1199 cc,75 hp / 90 hp,165 km/h,15 sec,"$8,700 ",Diesel/Petrol,5,190 Nm / 140 Nm,https://img.indianautosblog.com/2015/09/Tata-Zest-Anniversary-Edition-image-official-side.jpg
+641,Tata Motors,Indigo eCS,1.4L CR4 Diesel,1396 cc,70 hp,155 km/h,16.5 sec,"$6,500 ",Diesel,5,140 Nm,https://auto.economictimes.indiatimes.com/files/retail_files/indigo-ecs-1504016495-prod-var.jpg
+645,Tata Motors,Indigo LX,1.4L CR4 Diesel,1396 cc,70 hp,150 km/h,17 sec,"$7,000 ",Diesel,5,140 Nm,https://media.gettyimages.com/id/88924767/photo/india-new-tata-indigo-lx-car.jpg?s=612x612&w=gi&k=20&c=WeUo0XsVvnYvp_Uq8Wf8ehYFiWaYHdfW5JorOws0sq4=
+647,Cadillac,Escalade ESV,6.2L V8 Gasoline,6200 cc,420 hp,205 km/h,6.9 sec,"$82,295 ",Petrol,7,624 Nm,https://www.hdcarwallpapers.com/download/2023_cadillac_escalade_v_esv_4k-3840x2160.jpg
+648,Tata Motors,Nexon,1.2L Turbo Petrol / 1.5L Diesel,1199 cc / 1497 cc,118 hp / 110 hp,180 km/h,10 sec,"$14,000 ",Petrol/Diesel,5,170-260 Nm,https://wallpapercave.com/wp/wp9357159.jpg
+652,Tata Motors,Punch,1.2L Revotron Petrol,1199 cc,86 hp,160 km/h,16 sec,"$10,500 ",Petrol,5,113 Nm,https://wallpaperaccess.com/full/9271460.jpg
+658,Tata Motors,Tiago EV,Permanent Magnet Synchronous,24 kWh,74 hp,120 km/h,5.7 sec,"$11,000 ",Electric,5,114 Nm,https://img-cdn.evfy.in/products/Tata+Tiago+EV+2025(Primary).webp
+659,Tesla,Model S,Dual Electric Motors,100 kWh,670 hp,250 km/h,3.1 sec,"$88,490 ",Electric,5,967 Nm,https://wallpaperaccess.com/full/486595.jpg
+660,Tesla,Model S Plaid,Tri Electric Motors,100 kWh,"1,020 hp",322 km/h,2.1 sec,"$108,490 ",Electric,5,"1,400 Nm",https://www.supercars.net/blog/wp-content/uploads/2021/06/2021-Tesla-Model-S-007-2160-scaled.jpg
+664,Tesla,Model X Plaid,Tri Electric Motors,100 kWh,"1,020 hp",262 km/h,2.6 sec,"$113,490 ",Electric,6,"1,400 Nm",https://images5.alphacoders.com/121/1210652.jpg
+665,Tesla,Model Y,Single Electric Motor (RWD),75 kWh,346 hp,217 km/h,5.0 sec,"$47,490 ",Electric,5,498 Nm,https://images3.alphacoders.com/112/thumb-1920-1128987.jpg
+666,Tesla,Model Y Long Range,Dual Electric Motors (AWD),82 kWh,384 hp,217 km/h,4.8 sec,"$50,490 ",Electric,5,559 Nm,https://www.goodcarbadcar.net/wp-content/uploads/2023/11/2023-tesla-y-long-range.jpg
+677,Jeep,Wagoneer,5.7L V8 Gasoline with eTorque,5700 cc,392 hp,190 km/h,7.4 sec,"$63,595 ",Petrol,8,548 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/21581/jeep-wagoneer-overland-special-edition-2025-805248.jpg
+695,Cadillac,CT5-V Blackwing,6.2L Supercharged V8 Gasoline,6200 cc,668 hp,320 km/h,3.4 sec,"$92,000 ",Petrol,5,893 Nm,https://www.hdcarwallpapers.com/download/cadillac_ct5_v_blackwing_2025-3840x2160.jpg
+696,Cadillac,CT4-V Blackwing,3.6L Twin-Turbo V6 Gasoline,3600 cc,472 hp,290 km/h,3.9 sec,"$60,495 ",Petrol,5,603 Nm,"https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-ct4-v-blackwing-10at-102-1670344158.jpg?crop=0.686xw:0.513xh;0.260xw,0.468xh&resize=1200:*"
+700,Cadillac,Lyriq Launch Edition,Single Electric Motor,100 kWh,340 hp,190 km/h,5.7 sec,"$59,990 ",Electric,5,440 Nm,https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/08/2024-cadillac-lyriq-005.jpg
+701,Cadillac,Lyriq EV Premium,Dual Electric Motors,100 kWh,500 hp,210 km/h,4.5 sec,"$64,990 ",Electric,5,620 Nm,https://www.thedrive.com/uploads/2022/06/27/2023-Cadillac-Lyriq-Debut-Edition.jpeg?auto=webp&auto=webp&optimize=high&quality=70&width=1440
+703,Chevrolet,Spark,1.4L Inline-4 Gasoline,1400 cc,98 hp,180 km/h,10.7 sec,"$14,595 ",Petrol,5,127 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/9160/chevrolet-spark-2013-375567.jpg
+705,Chevrolet,Malibu,1.5L Turbo Inline-4 Gasoline,1500 cc,160 hp,210 km/h,8.0 sec,"$25,000 ",Petrol,5,250 Nm,https://www.motortrend.com/uploads/2022/10/2023-Chevrolet-Malibu-RS-30.jpg
+710,Chevrolet,Blazer,3.6L V6 Gasoline,3600 cc,308 hp,220 km/h,6.6 sec,"$44,000 ",Petrol,5,366 Nm,https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/chevrolet-blazer-rs-crop.jpg
+713,Chevrolet,Colorado,2.7L Turbo Inline-4 Gasoline,2700 cc,310 hp,190 km/h,6.8 sec,"$30,695 ",Petrol,5,583 Nm,https://cms-i.autodaily.vn/du-lieu/2024/04/16/chevrolet-colorado-2025-3.jpg
+714,Chevrolet,Silverado 1500,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.0 sec,"$42,795 ",Petrol,6,519 Nm,https://wallpaperaccess.com/full/1633476.jpg
+719,Chevrolet,Trailblazer,1.3L Turbo Inline-3 Gasoline,1300 cc,155 hp,200 km/h,9.4 sec,"$23,100 ",Petrol,5,236 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/20153/chevrolet-trailblazer-activ-2024-707333.jpg
+726,Chevrolet,Colorado ZR2,2.8L Turbo Diesel I4,2800 cc,181 hp,160 km/h,9.1 sec,"$48,295 ",Diesel,5,500 Nm,https://images.wallpapersden.com/image/download/chevrolet-colorado-zr2_am1rZWqUmZqaraWkpJRnamtlrWZpaWU.jpg
+727,Chevrolet,Traverse Premier,3.6L V6 Gasoline,3600 cc,310 hp,210 km/h,7.0 sec,"$46,600 ",Petrol,7,360 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/17988/chevrolet-traverse-premier-2021-581617.jpg
+730,Chevrolet,Bolt EV 2LT,Single Electric Motor,66 kWh,200 hp,150 km/h,6.7 sec,"$28,795 ",Electric,5,360 Nm,https://media.ed.edmunds-media.com/chevrolet/bolt-ev/2023/oem/2023_chevrolet_bolt-ev_4dr-hatchback_2lt_fq_oem_1_815.jpg
+731,Chevrolet,Camaro SS,6.2L V8 Gasoline,6200 cc,455 hp,290 km/h,4.3 sec,"$43,500 ",Petrol,4,617 Nm,https://wallpaperaccess.com/full/7642901.jpg
+735,Chevrolet,Malibu LT,1.5L Turbo Inline-4 Gasoline,1500 cc,160 hp,210 km/h,8.5 sec,"$25,800 ",Petrol,5,250 Nm,https://coolwallpapers.me/picsup/2864133-chevrolet-malibu-chevrolet___cars-wallpapers.jpg
+736,Chevrolet,Spark Activ,1.4L Inline-4 Gasoline,1400 cc,98 hp,180 km/h,11.0 sec,"$17,595 ",Petrol,5,127 Nm,https://gmauthority.com/blog/wp-content/uploads/2016/11/2017-Chevrolet-Spark-Activ-exterior-live-at-2016-LA-Auto-Show-003.jpg
+740,Chevrolet,Colorado WT,2.7L Turbo Inline-4 Gasoline,2700 cc,310 hp,190 km/h,6.9 sec,"$29,200 ",Petrol,5,583 Nm,https://img.sm360.ca/ir/w640h390c/images/newcar/ca/2024/chevrolet/colorado/wt/pickup/exteriorColors/2024_chevrolet_colorado_wt-v4_014_gaz.png
+743,Chevrolet,Spark LS,1.4L Inline-4 Gasoline,1400 cc,98 hp,180 km/h,10.9 sec,"$14,395 ",Petrol,5,127 Nm,"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2020_Chevrolet_Spark_LS,_front_right,_09-07-2024.jpg/800px-2020_Chevrolet_Spark_LS,_front_right,_09-07-2024.jpg"
+744,Chevrolet,Traverse LT,3.6L V6 Gasoline,3600 cc,310 hp,210 km/h,7.1 sec,"$37,200 ",Petrol,7,360 Nm,https://cgi.chevrolet.com/mmgprod-us/dynres/prove/imageinterior.gen?i=2026/1LB56/1LB56__2LT/H41_G4J_gmds2.jpg&v=deg02&std=true&country=US
+748,Chevrolet,Silverado 1500 Custom,4.3L V6 Gasoline,4300 cc,285 hp,180 km/h,8.6 sec,"$34,900 ",Petrol,6,413 Nm,https://di-uploads-pod1.dealerinspire.com/depaulachevy/uploads/2024/06/2024-Chevy-Silverado-1500-Custom-Angled-Left-767x422.jpg
+750,Chevrolet,Tahoe RST,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.4 sec,"$64,100 ",Petrol,7,519 Nm,https://www.hdcarwallpapers.com/download/chevrolet_tahoe_rst_2022_5k-2560x1440.jpg
+753,Chevrolet,Tahoe LS,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.5 sec,"$56,995 ",Petrol,8,519 Nm,https://img.sm360.ca/images/newcar/ca/2025/chevrolet/tahoe/ls/suv/exteriorColors/2025_chevrolet_tahoe_1-ls_1-ext_032_gnt.png
+755,Chevrolet,Tahoe RST,5.3L V8 Gasoline,5300 cc,355 hp,180 km/h,7.4 sec,"$64,100 ",Petrol,7,519 Nm,https://www.hdcarwallpapers.com/download/chevrolet_tahoe_rst_2022_5k-2560x1440.jpg
+758,Chevrolet,Tahoe High Country,6.2L V8 Gasoline,6200 cc,420 hp,200 km/h,6.7 sec,"$76,700 ",Petrol,7,624 Nm,https://img.sm360.ca/ir/w640h390c/images/newcar/ca/2025/chevrolet/tahoe/high-country/suv/exteriorColors/2025_chevrolet_tahoe_6-high-country_6-ext_014_gxd.png
+764,GMC,Yukon XL,6.2L V8 Gasoline,6200 cc,420 hp,200 km/h,6.9 sec,"$61,100 ",Petrol,8,624 Nm,https://platform.cstatic-images.com/in/v2/stock_photos/b7c7a2db-9f0c-41d7-8cc5-bf82b62a8e1f/8bab2942-47e3-4bdd-ae09-485df48c4939.png
+770,GMC,Hummer EV SUV,Dual-Motor Electric,212 kWh,625 hp,170 km/h,3.5 sec,"$105,600 ",Electric,5,1000+ Nm,https://www.hdcarwallpapers.com/download/2024_gmc_hummer_ev_suv_2-2560x1440.jpg
+777,GMC,Sierra Elevation,2.7L Turbo 4-cylinder,2700 cc,310 hp,190 km/h,7.6 sec,"$45,000 ",Petrol,5,583 Nm,https://www.hdcarwallpapers.com/download/2019_gmc_sierra_elevation_doule_cab_4k-1920x1080.jpg
+778,GMC,Canyon AT4,2.7L Turbo 4-cylinder,2700 cc,310 hp,190 km/h,7.5 sec,"$43,900 ",Petrol,5,583 Nm,https://www.hdcarwallpapers.com/download/gmc_canyon_at4_crew_cab_2023-1366x768.jpg
+783,GMC,Yukon AT4,5.3L V8 engine,"5,327 cc",355 hp,210 km/h,7.1 sec,"$71,505 ",Petrol,8,519 Nm,https://www.hdcarwallpapers.com/download/2021_gmc_yukon_at4_4k-2560x1440.jpg
+785,GMC,Sierra 1500 Elevation,2.7L Turbo engine,"2,713 cc",310 hp,180 km/h,7.0 sec,"$52,000 ",Petrol,5,569 Nm,https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2025/TK10543/TK10543__3SB/G6M_gmds2.jpg&v=deg04&std=true&country=US
+786,GMC,Sierra 1500 SLT,5.3L V8 engine,"5,327 cc",355 hp,180 km/h,6.8 sec,"$56,000 ",Petrol,5,519 Nm,https://vehicle-images.dealerinspire.com/stock-images/chrome/df089c34913363bf39aecb0fd1b2e1e1.png
+791,GMC,Sierra 1500 Denali Ultimate,6.2L V8 engine,"6,162 cc",420 hp,200 km/h,5.8 sec,"$80,000 ",Petrol,5,624 Nm,https://www.slashgear.com/img/gallery/2025-gmc-sierra-1500-denali-ultimate-review-what-you-sacrifice-for-luxury/l-intro-1733238445.jpg
+792,GMC,Yukon XL Denali Reserve,6.2L V8 engine,"6,162 cc",420 hp,210 km/h,6.0 sec,"$82,000 ",Petrol,7,624 Nm,"https://hips.hearstapps.com/hmg-prod/images/2025-gmc-yukon-denali-106-6852cef17ec49.jpg?crop=0.654xw:0.490xh;0.220xw,0.407xh&resize=1200:*"
+793,GMC,Terrain Elevation Edition,1.5L Turbocharged I4 engine,"1,490 cc",170 hp,200 km/h,9.3 sec,"$28,700 ",Petrol,5,275 Nm,https://gmauthority.com/blog/wp-content/uploads/2025/01/2025-GMC-Terrain-Elevation-Rapids-Metallic-GAL-Ebony-Twilight-Metallic-Roof-94T-Black-Edition-Package-WJP-002-Front-Three-Quarters-1024x576.jpg
+799,GMC,Sierra 2500HD Denali Black Edition,6.6L V8 engine,"6,600 cc",401 hp,170 km/h,7.5 sec,"$75,000 ",Petrol,5,629 Nm,https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2023/trucks/sierra-hd/sierra-hd-denali/01=images/2022-sierra-hd-denali-black-diamond-xs-21PGSRHD00614.jpg?imwidth=960
+803,GMC,Sierra 2500HD Pro,6.6L V8 engine,"6,600 cc",401 hp,170 km/h,7.7 sec,"$60,000 ",Petrol,3,629 Nm,https://img.sm360.ca/images/newcar/ca/2024/gmc/sierra-2500-hd/pro/pickup/exteriorColors/2024_gmc-sierra-2500-hd_1-pro_ext_032_gaz.png
+806,GMC,Acadia SLE,3.6L V6 engine,"3,564 cc",310 hp,210 km/h,6.6 sec,"$40,000 ",Petrol,7,366 Nm,https://kearnsstatic.azureedge.net/photos/133549262103242241-1gkknrls6pz231538.jpg
+807,GMC,Canyon SLT,2.5L I4 engine,"2,488 cc",200 hp,175 km/h,8.6 sec,"$38,000 ",Petrol,5,259 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/14053/gmc-canyon-all-terrain-slt-crew-cab-2015-405945.jpg
+812,GMC,Hummer EV Omega Edition,"Electric motors with up to 11,500 lb-ft torque",200 kWh,"Up to 1,000 hp",170 km/h,3.0 sec,"$112,700 ",Electric,5,"15,590 Nm",https://4kwallpapers.com/images/wallpapers/gmc-hummer-ev-omega-2560x1080-11396.jpeg
+814,GMC,Yukon Denali Ultimate Black,6.2L V8 engine,"6,162 cc",420 hp,210 km/h,6.0 sec,"$90,000 ",Petrol,8,624 Nm,https://www.hdcarwallpapers.com/download/2018_gmc_yukon_denali_ultimate_black_2-1920x1080.jpg
+815,GMC,Sierra HD Denali Reserve,6.6L V8 engine,"6,600 cc",401 hp,170 km/h,7.5 sec,"$85,000 ",Petrol,5,629 Nm,https://www.autocollectionofmurfreesboro.com/imagetag/18067/main/l/Used-2024-GMC-Sierra-2500HD-DENALI-RESERVE-4WD-CREW-CAB-DURAMAX-66L-TURBO-DIESEL-1731111348.jpg
+816,GMC,Acadia Denali Ultimate,3.6L V6 engine,"3,564 cc",310 hp,210 km/h,6.5 sec,"$60,000 ",Petrol,7,366 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/21844/gmc-acadia-denali-ultimate-2026-821162.jpg
+819,GMC,Hummer EV Adventure Series,"Electric motors with up to 11,500 lb-ft torque",200 kWh,Up to 830 hp,170 km/h,3.6 sec,"$105,000 ",Electric,5,"15,590 Nm",https://www.gmccanada.ca/content/dam/gmc/na/ca/en/index/future-vehicles/2026/2026-hummer-ev-reveal-v2/capability/26-hev-reveal-capability-extract-mode-1280x640-26PGHMT80022.jpg?imwidth=1920
+824,Kia,Sorento X-Line,2.5L Turbocharged 4-Cylinder,2500 cc,277 hp,220 km/h,7.0 sec,"$42,000 ",Petrol,7,421 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/20985/kia-sorento-sx-prestige-x-line-usa-version-2024-756597.jpg
+825,Kia,Telluride SX,3.8L V6,3778 cc,291 hp,240 km/h,7.0 sec,"$50,000 ",Petrol,7,355 Nm,https://www.hdcarwallpapers.com/download/2027_kia_telluride_sxp_2-5120x2880.jpg
+826,Kia,Forte LXS,2.0L 4-Cylinder,1999 cc,147 hp,190 km/h,9.2 sec,"$19,000 ",Petrol,5,179 Nm,https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10236677955799427
+828,Kia,Niro Plug-In Hybrid,1.6L 4-Cylinder Hybrid,1591 cc,139 hp,180 km/h,10.5 sec,"$33,000 ",Hybrid,5,265 Nm,https://scout.customerscout.net/Gallery/IMAGES/2025/Kia/Niro-Plug-in-Hybrid/2025KiaNiroPlug-inHybrid-exterior-01.jpg
+838,Kia,Niro Touring,1.6L 4-Cylinder Hybrid,1591 cc,139 hp,180 km/h,10.5 sec,"$33,000 ",Hybrid,5,265 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/18730/kia-niro-touring-usa-version-2021-623177.jpg
+845,Kia,Forte FE,2.0L 4-Cylinder,1999 cc,147 hp,190 km/h,9.2 sec,"$18,500 ",Petrol,5,179 Nm,https://cars.carsxa.com/uploads/car/carimage/977/2022-kia-Forte-__19_.jpg
+846,Kia,K5 GT-Line,1.6L Turbocharged 4-Cylinder,1591 cc,180 hp,220 km/h,7.8 sec,"$29,000 ",Petrol,5,264 Nm,https://www.hdcarwallpapers.com/download/2021_kia_k5_gt_line_awd_5k-3840x2160.jpg
+851,Kia,Sorento SX Prestige,2.5L Hybrid Turbocharged 4-Cylinder,1591 cc,227 hp,200 km/h,7.9 sec,"$48,000 ",Hybrid,7,352 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/20985/kia-sorento-sx-prestige-x-line-usa-version-2024-756597.jpg
+856,Kia,Carnival SX Prestige,3.5L V6,3500 cc,290 hp,220 km/h,8.0 sec,"$47,000 ",Petrol,8,355 Nm,https://carsfrenzy.net/wp-content/uploads/2023/07/2024-Kia-Carnival-SX-Prestige-Design-1024x608.jpg
+865,Kia,Sorento Hybrid EX,1.6L Hybrid Turbocharged 4-Cylinder,1591 cc,227 hp,200 km/h,7.9 sec,"$47,000 ",Hybrid,7,352 Nm,https://vehicle-images.dealerinspire.com/879d-110009024/thumbnails/large/KNDRHDJG1T5444384/b8a6cfb340c66f61dd989bde1a2ab9ac.jpg
+866,Kia,Telluride LX,3.8L V6,3778 cc,291 hp,240 km/h,7.0 sec,"$41,500 ",Petrol,7,355 Nm,https://imageonthefly.autodatadirect.com/images/?width=1200&height=900&IMG=USD40KIS061A01300.jpg
+868,Kia,EV6 AWD GT-Line,Electric Motor,77.4 kWh,320 hp,230 km/h,5.0 sec,"$60,000 ",Electric,5,450 Nm,https://manofmany.com/wp-content/uploads/2022/08/Kia-EV6-GT-line-AWD-feature-1200x900.jpg
+870,Kia,Soul GT Designer Edition,2.0L 4-Cylinder,1999 cc,147 hp,190 km/h,9.5 sec,"$23,000 ",Petrol,5,179 Nm,https://kiacarusa.com/wp-content/uploads/2023/08/2024-KIA-Soul-GT.webp
+871,Kia,Seltos X-Line Turbo,1.6L Turbocharged 4-Cylinder,1591 cc,175 hp,210 km/h,7.5 sec,"$30,000 ",Petrol,5,264 Nm,https://www.hdcarwallpapers.com/download/kia_seltos_x_line_2026-5120x2880.jpg
+872,Peugeot,e-2008 GT,Electric Motor,50 kWh,136 hp,200 km/h,8.5 sec,"$40,000 ",Electric,5,260 Nm,https://wallpapers4screen.com/Uploads/14-4-2023/59674/thumb2-peugeot-e-2008-gt-4k-crossovers-2023-cars-hdr.jpg
+873,Kia,Telluride Limited Edition,3.8L V6,3778 cc,291 hp,240 km/h,7.0 sec,"$53,000 ",Petrol,7,355 Nm,https://i.gaw.to/vehicles/photos/40/29/402920-2022-kia-telluride.jpg?1024x640
+874,Kia,Stinger GT-Line,2.5L Turbocharged 4-Cylinder,2500 cc,300 hp,270 km/h,5.0 sec,"$50,000 ",Petrol,5,422 Nm,https://www.hdcarwallpapers.com/download/kia_stinger_gt_line_2021_5k-3840x2160.jpg
+879,Kia,Forte Limited Edition,2.0L 4-Cylinder,1999 cc,147 hp,190 km/h,9.2 sec,"$22,500 ",Petrol,5,179 Nm,https://i.gaw.to/vehicles/photos/40/32/403255-2023-kia-forte.jpg?1024x640
+882,Bugatti,Chiron Super Sport,8.0L Quad-Turbo W16,7993 cc,1600 hp,490 km/h,2.4 sec,"$3,500,000 ",Petrol,2,1600 Nm,https://www.hdcarwallpapers.com/download/bugatti_chiron_super_sport_300__prototype_2019_4k_8k-2560x1440.jpg
+883,Bugatti,Chiron Sport,8.0L Quad-Turbo W16,7993 cc,1500 hp,420 km/h,2.4 sec,"$3,300,000 ",Petrol,2,1600 Nm,https://www.hdwallpapers.in/download/bugatti_chiron_pur_sport_2020_4k_8k_hd-5120x2880.jpg
+884,Bugatti,Chiron Noire,8.0L Quad-Turbo W16,7993 cc,1500 hp,420 km/h,2.5 sec,"$3,300,000 ",Petrol,2,1600 Nm,https://www.hdcarwallpapers.com/download/bugatti_chiron_noire_2020_5k_2-1920x1080.jpg
+891,Volvo,Volvo FH16,16.1L I6 Turbo Diesel,16100 cc,750 hp,120 km/h,14.5 sec,"$160,000 ",Diesel,2,3500 Nm,https://wallpapercave.com/wp/wp10419802.jpg
+892,Volvo,Volvo FM,12.8L I6 Turbo Diesel,12800 cc,460 hp,110 km/h,16.0 sec,"$100,000 ",Diesel,2,2200 Nm,https://www.16valvulas.com.ar/wp-content/uploads/2024/10/Volvo-FH-2025-7.jpg
+894,Volvo,Volvo VNL,12.8L I6 Turbo Diesel,12800 cc,500 hp,120 km/h,15.0 sec,"$125,000 ",Diesel,2,2400 Nm,https://wallpapercave.com/wp/wp10071836.jpg
+898,Volvo,Volvo FL,5.1L I4 Turbo Diesel,5100 cc,180 hp,80 km/h,22.0 sec,"$75,000 ",Diesel,2,800 Nm,https://imgcdn.oto.com/large/gallery/exterior/122/3031/volvo-fl-front-angle-low-view-750457.jpg
+899,Jaguar Land Rover,Jaguar F-Type,V6 / V8 Petrol,2995 cc (V6),335 hp,260 km/h,5.1 sec,"$70,000 ",Petrol,2,450 Nm,https://www.hdcarwallpapers.com/walls/jaguar_f_type_r_coupe_2020_4k-HD.jpg
+900,Jaguar Land Rover,Jaguar XE,I4 Petrol,1999 cc (I4),250 hp,250 km/h,6.5 sec,"$45,000 ",Petrol,5,365 Nm,https://www.thedetroitbureau.com/wp-content/uploads/2019/04/2019-Jaguar-XE.jpg
+902,Jaguar Land Rover,Jaguar XJ,V6 Petrol,2995 cc (V6),300 hp,250 km/h,6.0 sec,"$85,000 ",Petrol,5,400 Nm,https://www.hdcarwallpapers.com/walls/jaguar_landrover_2017_4k-HD.jpg
+903,Jaguar Land Rover,Jaguar E-PACE,I4 Petrol,1999 cc (I4),200 hp,230 km/h,7.0 sec,"$50,000 ",Petrol,5,430 Nm,https://www.10wallpaper.com/wallpaper/1024x768/1801/Jaguar_e_pace_Car_HD_Poster_1024x768.jpg
+905,Jaguar Land Rover,Jaguar F-PACE,I4 Petrol / V6 Petrol,1999 cc (I4) / 2995 cc (V6),250 hp / 340 hp,230 km/h,7.2 sec / 5.4 sec,"$55,000 / $65,000",Petrol,5,365 Nm / 480 Nm,https://classiccarclubmanhattan.com/wp-content/uploads/2020/02/jaguar-land-rover-f-pace-and-discovery-5-at-umbrail-pass-in-switzerland.jpg
+915,Jaguar Land Rover,Jaguar F-Type Heritage Edition,V8 Petrol,5000 cc (V8),550 hp,300 km/h,3.9 sec,"$110,000 ",Petrol,2,680 Nm,https://autonxt.net/wp-content/uploads/2020/12/Jaguar-F-TYPE-Heritage-60-Edition2.jpg
+926,Jaguar Land Rover,Jaguar F-Type 75th Anniversary Edition,V8 Petrol,5000 cc (V8),550 hp,300 km/h,3.9 sec,"$100,000 ",Petrol,2,680 Nm,https://cdn.dicklovett.co.uk/uploads/asset_image/2_5351_f.jpg?v=1686157146
+931,Jaguar Land Rover,Jaguar XF Portfolio AWD,I4 Petrol / V6 Petrol,1999 cc (I4) / 2995 cc (V6),340 hp,250 km/h,5.4 sec,"$60,000 ",Petrol,5,450 Nm,https://i.pinimg.com/originals/2d/a0/53/2da053e303caf6b8897731bcb9618ef2.jpg
+932,Jaguar Land Rover,Jaguar F-Type Coupe R,V8 Petrol,5000 cc (V8),550 hp,300 km/h,3.9 sec,"$100,000 ",Petrol,2,680 Nm,https://wallpapercave.com/wp/wp7003241.jpg
+933,Jaguar Land Rover,Jaguar I-PACE First Edition,Electric (Dual Motor),90 kWh (Battery),400 hp,200 km/h,4.5 sec,"$85,000 ",Electric,5,696 Nm,https://ev.motorwatt.com/media/djcatalog2/images/item/0/jaguar-i-pace-first-edition-awd.6.jpg
+937,Jaguar Land Rover,Jaguar F-PACE P400e Plug-in Hybrid,I4 Petrol + Electric Motor,1999 cc (I4) + Electric,398 hp,220 km/h,5.1 sec,"$75,000 ",Plug-in Hybrid,5,640 Nm,https://www.ninacarmaria.de/wp-content/uploads/2022/08/DSC00675-1536x1024.jpg
+939,Acura,NSX Type S,Twin-Turbo V6 Hybrid,"3,493 cc (V6)",600 hp,307 km/h,2.9 sec,"$157,000 ",Hybrid,2,666 Nm,https://www.hdcarwallpapers.com/download/acura_nsx_type_s_active_aero_study_4k-2560x1440.jpg
+941,Acura,MDX Advance,V6,"3,500 cc (V6)",290 hp,190 km/h,6.0 sec,"$60,000 ",Petrol,7,362 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/18658/acura-mdx-advance-2022-619648.jpg
+942,Acura,RDX Technology,I4 Turbocharged,"1,500 cc (I4)",272 hp,210 km/h,6.6 sec,"$45,000 ",Petrol,5,400 Nm,https://www.edmunds.com/assets/m/cs/blt0c3682c404fb7167/67ad30a186ec071488ec427a/teaser_2026_acura_rdx_815.jpg
+946,Acura,MDX SH-AWD,V6,"3,500 cc (V6)",290 hp,190 km/h,6.0 sec,"$55,000 ",Petrol,7,362 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/3062/acura-mdx-sh-awd-2008-249506.jpg
+947,Acura,RDX Platinum Elite,I4 Turbocharged,"1,500 cc (I4)",272 hp,210 km/h,6.6 sec,"$55,000 ",Petrol,5,400 Nm,https://img.sm360.ca/images/inventory/northshore-acua/acura/rdx/2025/36317487/36317487_04600_f9093969a999adfe742facdee29064cc.jpg
+950,Acura,MDX Hybrid,V6 Hybrid,"3,500 cc",321 hp,190 km/h,6.0 sec,"$55,000 ",Hybrid,7,335 Nm,https://media.ed.edmunds-media.com/acura/mdx/2020/oem/2020_acura_mdx_4dr-suv_sport-hybrid-sh-awd_fq_oem_1_1280.jpg
+957,Acura,MDX SH-AWD w/Technology Package,V6,"3,500 cc",290 hp,190 km/h,6.0 sec,"$55,000 ",Petrol,7,362 Nm,https://vehicle-images.dealerinspire.com/83c6-110005740/5J8YE1H4XRL021923/3673be2abef68cae1e9f2db50f80636d.jpg
+960,Acura,TLX V6 Advance,V6,"3,500 cc",290 hp,250 km/h,5.7 sec,"$46,000 ",Petrol,5,362 Nm,http://images.gtcarlot.com/pictures/128684942.jpg
+961,Acura,NSX Carbon Edition,Twin-Turbo V6 Hybrid,"3,493 cc",537 hp,307 km/h,2.9 sec,"$157,000 ",Hybrid,2,666 Nm,https://c8.alamy.com/comp/GRHPAC/brand-new-acura-nsx-red-number-59-in-the-world-high-quality-photos-GRHPAC.jpg
+963,Acura,ILX Technology Plus,Inline-4,"2,400 cc",201 hp,200 km/h,6.6 sec,"$28,000 ",Petrol,5,180 Nm,https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2963201690553429
+968,Peugeot,301,Inline-4,"1,598 cc",115 hp,185 km/h,10.0 sec,"$23,500 ",Petrol,5,150 Nm,https://autotras.com/image/4448/peugeot-301-mod-image-1220w.jpg
+971,Peugeot,5008,Inline-4,"1,998 cc",165 hp,200 km/h,9.5 sec,"$35,000 ",Diesel,7,400 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/18295/peugeot-5008-2021-653554.jpg
+973,Peugeot,Partner,Diesel I4,"1,560 cc",75 hp,160 km/h,12.0 sec,"$22,500 ",Diesel,5,200 Nm,https://media.whatcar.com/wc-image/2019-09/peugeot_partner4093.jpg
+975,Peugeot,Boxer,Diesel I4,"2,200 cc",140 hp,160 km/h,11.0 sec,"$32,000 ",Diesel,3,340 Nm,https://ymimg1.b8cdn.com/uploads/car_model/7184/pictures/7425146/Peugeot_Boxer__3_.jpg
+976,Peugeot,e-208,Electric Motor,50 kWh,136 hp,150 km/h,8.1 sec,"$35,000 ",Electric,5,260 Nm,https://www.hdcarwallpapers.com/download/peugeot_e_208_gt_2019_5k_3-5120x2880.jpg
+983,Peugeot,3008 Allure,Inline-4,"1,499 cc",180 hp,210 km/h,8.0 sec,"$30,000 ",Petrol,5,250 Nm,https://www.hdcarwallpapers.com/download/peugeot_3008_allure_2019_5k-3840x2160.jpg
+986,Peugeot,3008 GT,Inline-4,"1,598 cc",200 hp,220 km/h,7.5 sec,"$35,000 ",Petrol,5,280 Nm,https://www.hdcarwallpapers.com/walls/peugeot_3008_gt_2020_5k_2-HD.jpg
+993,Peugeot,Boxer L2H2,Inline-4,"2,200 cc",130 hp,140 km/h,14.0 sec,"$35,000 ",Diesel,3,350 Nm,https://done3d.com/uploads_img_paraart/2014/07/02/Peugeot_Boxer_Mk2f_L2H2_2014_600_lq_0001.jpg
+997,Peugeot,308 PSE,Hybrid I4,"1,598 cc (petrol) + Electric Motor",360 hp,250 km/h,5.0 sec,"$55,000 ",Hybrid,5,520 Nm,https://www.clubalfa.it/wp-content/uploads/2021/03/Peugeot-308-PSE-render.jpg
+998,Peugeot,508 PSE,Hybrid I4,"1,598 cc (petrol) + Electric Motor",360 hp,250 km/h,5.2 sec,"$60,000 ",Hybrid,5,520 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/18361/peugeot-508-pse-2020-671099.jpg
+1006,Peugeot,5008 GT Line,Inline-4,"1,598 cc",180 hp,200 km/h,9.0 sec,"$38,000 ",Petrol,7,250 Nm,https://www.hdcarwallpapers.com/download/2017_peugeot_5008_gt_line_4k-2560x1440.jpg
+1007,Peugeot,2008 GT,Inline-4,"1,199 cc",130 hp,200 km/h,9.3 sec,"$25,000 ",Petrol,5,230 Nm,https://www.hdcarwallpapers.com/download/peugeot_2008_gt_line_2019_4k_2-5120x2880.jpg
+1008,Peugeot,5008 GT,Inline-4,"1,598 cc",180 hp,210 km/h,8.2 sec,"$40,000 ",Petrol,7,250 Nm,https://www.hdwallpapers.in/download/peugeot_5008_gt_2020_4k_5k_hd_cars-HD.jpg
+1009,Peugeot,508 SW (Station Wagon),Inline-4,"1,598 cc",180 hp,220 km/h,8.4 sec,"$35,000 ",Petrol,5,300 Nm,https://daxstreet.com/wp-content/uploads/2024/12/Peugeot-508-SW.webp
+1014,Ford,Fusion (Mondeo),1.5L EcoBoost / 2.0L Hybrid,"1,500 - 2,000 cc",160 - 250 hp,220 km/h,7.5 sec,"$25,000 - $40,000",Petrol/Hybrid,5,200 - 400 Nm,http://car3d.net/wp-content/uploads/img_paraart/2012/02/Ford_Fusion_2013_600_lq_0002.jpg
+1016,Ford,Fiesta,1.0L EcoBoost / 1.5L,"1,000 - 1,500 cc",85 - 200 hp,200 km/h,7.0 sec,"$15,000 - $25,000",Petrol,5,130 - 290 Nm,https://www.hdcarwallpapers.com/walls/2017_ford_fiesta_st-HD.jpg
+1019,Ford,EcoSport,1.0L Turbo Inline-3 / 2.0L,"1,000 - 2,000 cc",123 - 166 hp,180 km/h,9.0 sec,"$20,000 - $25,000",Petrol,5,170 - 200 Nm,https://wallpaperaccess.com/full/3887124.jpg
+1023,Ford,Expedition,3.5L EcoBoost / 5.4L V8,"3,500 - 5,400 cc",375 - 400 hp,180 km/h,6.5 sec,"$50,000 - $75,000",Petrol,8,650 - 800 Nm,https://www.usnews.com/object/image/0000018b-ac1f-d133-a3ff-bddf678c0000/https-cars-dms-usnews-com-static-uploads-images-auto-custom-14078-original-2020-ford-expedition-77.jpg?update-time=1606765990000&size=responsiveGallery
+1030,Ford,Ranger,2.3L Turbo Inline-4 / 2.7L V6,"2,300 - 2,700 cc",270 - 325 hp,180 km/h,6.0 - 7.0 sec,"$25,000 - $45,000",Petrol/Diesel,5,400 - 540 Nm,https://www.hdcarwallpapers.com/download/ford_ranger_raptor_2024-2560x1440.jpg
+1033,Ford,Escape Hybrid,2.5L Inline-4 + Electric,"2,500 cc",200 hp,180 km/h,7.7 sec,"$28,000 - $38,000",Hybrid,5,210 Nm (Electric),https://www.motortrend.com/files/66958f2a84472500088a7e27/18-2025-ford-escape-phev-front-view.jpg
+1034,Ford,Explorer Hybrid,3.3L V6 + Electric,"3,300 cc",318 hp,180 km/h,7.5 sec,"$50,000 - $55,000",Hybrid,7,500 Nm,https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/explorer/2023/collections/dm/21_FRD_EPR_07-EXPLORER-HYBRID.tif?croppathe=1_21x9&wid=1440
+1038,Ford,Fiesta ST,1.5L Turbo Inline-3,"1,500 cc",200 hp,230 km/h,6.5 sec,"$23,000 ",Petrol,5,290 Nm,https://www.hdcarwallpapers.com/walls/2017_ford_fiesta_st-HD.jpg
+1039,Ford,Bronco Raptor,3.0L Twin-Turbo V6,"3,000 cc",400 hp,220 km/h,5.5 sec,"$70,000 ",Petrol,4,583 Nm,https://www.hdcarwallpapers.com/download/ford_bronco_raptor-2560x1440.jpg
+1041,Ford,F-150 Raptor,3.5L Twin-Turbo V6,"3,500 cc",450 hp,200 km/h,5.0 sec,"$70,000 ",Petrol,5,691 Nm,https://www.hdcarwallpapers.com/download/ford_f_150_raptor_r_2023_5k-3840x2160.jpg
+1042,Ford,Puma,Turbocharged Inline-3,"1,000 cc",123 hp,191 km/h,9.6 sec,"$28,000 ",Petrol,5,200 Nm,https://images.wallpapersden.com/image/download/ford-puma-st_bGhnbW6UmZqaraWkpJRmbmdlrWZlbWU.jpg
+1062,Ford,Mustang (2024),V8 Gasoline Engine,"5,000 cc",450 hp,250 km/h,4.5 sec,"$60,000 ",Petrol,4,570 Nm,https://www.hdcarwallpapers.com/download/ford_mustang_dark_horse_2024_4k_8k_6-3840x2160.jpg
+1063,Ford,Ranger (2024),I4 Turbo Diesel,"2,000 cc",210 hp,180 km/h,8.0 sec,"$40,000 ",Diesel,5,500 Nm,https://www.hdcarwallpapers.com/download/ford_ranger_raptor_2024_5k-2560x1440.jpg
+1065,Ford,Bronco (2024),V6 EcoBoost,"2,700 cc",310 hp,200 km/h,6.7 sec,"$45,000 ",Petrol,5,542 Nm,https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/10/badlands-racered-u725.jpg
+1070,Mitsubishi,Outlander PHEV,2.4L Hybrid,"2,400 cc / 20 kWh battery",248 hp,170 km/h,10.5 sec,"$39,000 - $43,000",Hybrid,5,300 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/21304/mitsubishi-outlander-phev-2025-775016.jpg
+1072,Mitsubishi,ASX (Outlander Sport),2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.0 sec,"$23,000 - $26,000",Petrol,5,197 Nm,https://s1.cdn.autoevolution.com/images/gallery/MITSUBISHI-ASX---RVR---Outlander-Sport-5912_53.jpg
+1073,Mitsubishi,Pajero,3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$40,000 - $45,000",Diesel,7,441 Nm,https://wallpaperaccess.com/full/3517538.jpg
+1089,Mitsubishi,L200 Barbarian X,2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$30,000 - $35,000",Diesel,5,430 Nm,https://p.turbosquid.com/ts-thumb/Ze/0jjnU7/76SFMUYN/mitsubishi_l200_barbarian__x_2020_grid08/jpeg/1601916580/1920x1080/fit_q87/704b2cae393aa3ffd64db0a936754eb429f179a3/mitsubishi_l200_barbarian__x_2020_grid08.jpg
+1091,Mitsubishi,Lancer EX,1.6L MIVEC / 2.0L,"1,600 - 2,000 cc",117 - 148 hp,200 km/h,10.0 sec,"$20,000 - $25,000",Petrol,5,154 - 197 Nm,https://wallpapercave.com/wp/wp3315980.jpg
+1093,Mitsubishi,Attrage,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.5 sec,"$15,000 - $17,000",Petrol,5,100 Nm,https://imgcdn.zigwheels.co.th/large/gallery/exterior/21/230/mitsubishi-attrage-front-angle-low-view-867864.jpg
+1096,Mitsubishi,Canter (Truck),3.0L Diesel,"3,000 cc",150 hp,120 km/h,,"$35,000 - $45,000",Diesel,2,370 Nm,https://assets.mitsubishi-fuso.com/fusoassets/2023/01/2016-Canter-Diesel-2048x1367.jpg
+1098,Mitsubishi,Pajero GLS,3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$45,000 - $50,000",Diesel,7,441 Nm,https://assets-global.website-files.com/63c4bd441c21782eb0d195d5/65af708e455c725f30f2c363_hero+far.webp
+1099,Mitsubishi,Xpander Cross,1.5L MIVEC,"1,500 cc",105 hp,170 km/h,12.0 sec,"$20,000 - $25,000",Petrol,7,141 Nm,https://newmitsubishimodels.com/wp-content/uploads/2025/07/New-2027-Mitsubishi-Xpander-Cross-Release-Date.jpg
+1102,Mitsubishi,Montero GLX,2.4L Diesel Turbo,"2,400 cc",181 hp,180 km/h,11.0 sec,"$35,000 - $40,000",Diesel,7,430 Nm,https://i.ytimg.com/vi/sNiXvfWdvlg/maxresdefault.jpg
+1104,Mitsubishi,ASX Dynamic,2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.0 sec,"$25,000 - $28,000",Petrol,5,197 Nm,https://wallpapers.com/images/hd/dynamic-mitsubishi-asx-on-the-open-road-hochm35y00lt7he5.jpg
+1110,Mitsubishi,Toppo BJ,0.7L 3-Cylinder,660 cc,52 hp,130 km/h,15.0 sec,"$10,000 - $12,000",Petrol,4,60 Nm,https://jdm4all.com/wp-content/uploads/2020/09/toppobj3.jpg
+1119,Mitsubishi,eK X,0.7L 3-Cylinder,660 cc,64 hp,140 km/h,13.5 sec,"$12,000 - $15,000",Petrol,4,94 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/20111/mitsubishi-ek-x-ev-2023-703947.jpg
+1120,Mitsubishi,Colt CZC Convertible,1.5L Turbocharged,"1,500 cc",147 hp,200 km/h,9.5 sec,"$25,000 - $30,000",Petrol,4,210 Nm,https://files.idyllic.app/files/static/650579
+1123,Mitsubishi,Grand Lancer,1.8L MIVEC,"1,800 cc",138 hp,190 km/h,11.5 sec,"$20,000 - $25,000",Petrol,5,173 Nm,http://images.topgear.com.ph/topgear/images/2023/02/09/5-1675943179.jpg
+1124,Mitsubishi,Sigma,3.0L V6,"3,000 cc",210 hp,220 km/h,8.5 sec,"$35,000 - $40,000",Petrol,5,270 Nm,http://momentcar.com/images/mitsubishi-sigma-8.jpg
+1127,Mazda,Mazda3,2.0L SkyActiv-G,"2,000 cc",155 hp,200 km/h,8.9 sec,"$22,000 - $26,000",Petrol,5,213 Nm,https://wallpaperaccess.com/full/1615312.jpg
+1141,Mazda,CX-7,2.3L Turbocharged,"2,300 cc",244 hp,210 km/h,7.9 sec,"$28,000 - $33,000",Petrol,5,350 Nm,http://www.automobilesreview.com/gallery/mazda-cx-7-facelift/mazda-cx-7-facelift_10.jpg
+1142,Mazda,Tribute,3.0L V6,"3,000 cc",200 hp,190 km/h,9.0 sec,"$24,000 - $30,000",Petrol,5,270 Nm,https://news.mazdausa.com/image/04+Tribute+high+res+1170px.jpg
+1143,Mazda,B-Series Pickup,2.5L Diesel,"2,500 cc",143 hp,170 km/h,11.5 sec,"$20,000 - $25,000",Diesel,5,330 Nm,https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/2009-mazda-b-series.jpg
+1144,Mazda,BT-50,3.2L Turbo Diesel,"3,200 cc",200 hp,180 km/h,10.0 sec,"$27,000 - $35,000",Diesel,5,470 Nm,https://www.carscoops.com/wp-content/uploads/2024/10/2024_BT-50_AUS_RHD_C101_SP-Pkg_EXT_FQ_Vermilion_Latosol_Metallic_until20271017-copy.jpg
+1153,Mazda,Eunos Cosmo,2.0L Twin-Rotor Turbo,"2,000 cc",280 hp,240 km/h,6.0 sec,"$40,000 - $50,000",Petrol,4,300 Nm,"https://media-assets.mazda.eu/image/upload/q_auto/c_fill,w_1200,h_900/mazdabe/globalassets/mmb-local-pages/100th-anniversary/geschiedenis/car-models-heros/hero/eunos_cosmo_hero.jpg?rnd=4a91c8"
+1155,Mazda,Roadpacer AP,1.3L Rotary,"1,300 cc",130 hp,170 km/h,11.5 sec,"$20,000 - $25,000",Petrol,5,165 Nm,https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2022/10/1975-Mazda-Roadpacer-APs.jpg
+1158,Mazda,Luce,1.8L Rotary,"1,800 cc",135 hp,180 km/h,10.5 sec,"$15,000 - $20,000",Petrol,5,170 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/19180/mazda-luce-r130--1969-647202.jpg
+1164,Mazda,MX-6,2.5L V6,"2,500 cc",164 hp,210 km/h,8.8 sec,"$18,000 - $24,000",Petrol,4,215 Nm,https://wallpapers.com/images/hd/sleek-mazda-mx-6-in-action-g29s6ip79qqsxzux.jpg
+1165,Mazda,MPV,3.0L V6,"3,000 cc",200 hp,185 km/h,9.5 sec,"$25,000 - $30,000",Petrol,7,265 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/3931/mazda-mpv-style-pack-2008-260862.jpg
+1166,Mazda,Proceed Marvie,2.6L Inline-4,"2,600 cc",120 hp,160 km/h,12.0 sec,"$20,000 - $25,000",Petrol,5,200 Nm,https://topworldauto.com/pics3/ae/dc/file-mazda-proceed-marvie-002-jpg-wikimedia-commons.jpg
+1169,Mazda,Scrum,660cc Inline-3,660 cc,63 hp,130 km/h,15.0 sec,"$9,000 - $11,000",Petrol,4,85 Nm,https://newmazdamodels.com/wp-content/uploads/2025/05/2027-Mazda-Scrum-Price.jpg
+1175,Mazda,Bongo Van,2.0L Inline-4,"2,000 cc",100 hp,160 km/h,14.0 sec,"$18,000 - $22,000",Petrol/Diesel,3,140 Nm,https://www.cars-directory.net/pics_specs/car/mazda/bongo/4885/1_big.jpg
+1182,Mazda,1200,1.2L Inline-4,"1,200 cc",60 hp,130 km/h,16.0 sec,"$10,000 - $12,000",Petrol,4,90 Nm,https://momentcar.com/images/mazda-1200-1971-10.jpg
+1184,Mazda,RX-2,1.3L Inline-2 (Wankel),"1,308 cc",130 hp,185 km/h,8.5 sec,"$20,000 - $25,000",Petrol,4,220 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/5836/mazda-rx-2-coupe-re-super-deluxe-1976-282791.jpg
+1185,Mazda,RX-5,1.6L Inline-2 (Wankel),"1,588 cc",135 hp,190 km/h,8.0 sec,"$25,000 - $30,000",Petrol,4,210 Nm,https://newmazdamodels.com/wp-content/uploads/2025/05/2027-Mazda-RX-5-Review.jpg
+1186,Mazda,RX-7 Spirit R,1.3L Inline-2 (Wankel),"1,308 cc",280 hp,250 km/h,5.5 sec,"$35,000 - $40,000",Petrol,2,290 Nm,https://images.hdqwalls.com/download/2002-mazda-rx-7-spirit-r-4k-9a-1920x1080.jpg
+1187,Mazda,Cosmo Sport (110S),1.0L Inline-2 (Wankel),"1,000 cc",110 hp,170 km/h,10.0 sec,"$30,000 - $35,000",Petrol,2,150 Nm,https://silodrome.com/wp-content/uploads/2015/03/Mazda-Cosmo-Car-1600x1061.jpg
+1191,Mazda,Savanna RX-7,1.3L Inline-2 (Wankel),"1,308 cc",165 hp,230 km/h,7.5 sec,"$28,000 - $32,000",Petrol,2,230 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/2973/mazda-rx-7-fb-savanna-1980-248362.jpg
+1195,Mazda,Biante,2.0L Inline-4,"2,000 cc",150 hp,185 km/h,10.0 sec,"$22,000 - $26,000",Petrol,7,200 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/1872/mazda-biante-2008-230781.jpg
+1203,Mazda,Etude,1.6L Inline-4,"1,598 cc",105 hp,170 km/h,10.0 sec,"$14,000 - $16,000",Petrol,5,135 Nm,https://cdn.motodev.co.za/?img=https://www.mycars.co.za/uploads/asset_media/00000000-0000-0000-0001-000001003770/00000000-0000-0000-0000-000000265931.jpg&w=500&q=75&type=jpg
+1206,Mazda,MX-5 Superlight Concept,1.8L Inline-4,"1,798 cc",143 hp,200 km/h,7.5 sec,"$30,000 - $35,000",Petrol,2,160 Nm,https://s1.cdn.autoevolution.com/images/news/gallery/mazda-mx-5-superlight-concept-official-photos-and-details_17.jpg
+1207,Mazda,Premacy Hydrogen RE,1.3L Wankel + Electric,"1,308 cc",200 hp,180 km/h,9.5 sec,"$40,000 - $45,000",Hybrid,5,260 Nm,https://www.mad4wheels.com/img/free-car-images/mobile/4469/mazda-premacy-hydrogen-re-2009-267501.jpg
+1210,Mazda,Luce Rotary Coupe,1.3L Wankel Rotary Engine,"1,308 cc",135 hp,175 km/h,12.0 sec,"$25,000 - $30,000",Petrol,4,180 Nm,https://static.usedcars.co.ke/wp-content/uploads/sites/9/2023/09/26030902/Mazda-Luce-Rotary-Coupe.jpg
+1211,Mazda,Millenia S,2.5L V6,"2,500 cc",200 hp,220 km/h,8.0 sec,"$30,000 - $35,000",Petrol,5,250 Nm,https://japanesenostalgiccar.com/wordpress/wp-content/uploads/2018/01/Millenia2.jpg
+1212,Mazda,787B (Race Car),2.6L Wankel Rotary Engine,"2,620 cc",700 hp,320 km/h,3.5 sec,"$5,000,000 - $7,000,000",Petrol,1,500 Nm,https://wallpapercrafter.com/desktop1/636317-car-Mazda-mazda-787b-race-cars-Super-Car-Le-Mans.jpg
+1214,Toyota,4Runner (6th Gen),2.4L Turbo I4 (i-FORCE MAX Hybrid),2393 cc + Battery,326 hp,180 km/h,6.8 sec,"$50,000 ",Hybrid,7,630 Nm,https://www.slashgear.com/img/gallery/2025-toyota-4runner-all-the-tech-on-the-new-6th-gen-suv/l-intro-1712693872.jpg

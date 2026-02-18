@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="search_bar">
+      <input type="search" name="search" id="search" />
+    </div>
+    <hr />
+    <div id="display">
+      <img src="" alt="" id="img" width="500" />
+    </div>
+    <script>
+      let jsonData; // 1. Declare variable outside
+
+      fetch("./cars_only_images.json")
+        .then((response) => response.json())
+        .then((data) => {
+          jsonData = data; // 2. Assign to outer variable
+        });
+
+      document.getElementById("search").onkeyup = () => {
+        let arr = [];
+        for (const key in jsonData["Company Names"]) {
+          if (
+            (
+              jsonData["Cars Names"][key].toLowerCase() +
+              " " +
+              jsonData["Company Names"][key].toLowerCase()
+            ).includes(document.getElementById("search").value.toLowerCase()) ||
+            (
+              jsonData["Company Names"][key].toLowerCase() +
+              " " +
+              jsonData["Cars Names"][key].toLowerCase()
+            ).includes(document.getElementById("search").value.toLowerCase())
+          ) {
+            arr.push(key);
+          }
+          document.getElementById("img").src = jsonData["image"][arr[0]];
+        }
+      };
+    </script>
+  </body>
+</html>
