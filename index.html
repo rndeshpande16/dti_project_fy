@@ -10,9 +10,7 @@
       <input type="search" name="search" id="search" />
     </div>
     <hr />
-    <div id="display">
-      <img src="" alt="" id="img" width="500" />
-    </div>
+    <div id="display"></div>
     <script>
       let jsonData; // 1. Declare variable outside
 
@@ -21,8 +19,9 @@
         .then((data) => {
           jsonData = data; // 2. Assign to outer variable
         });
-
+      let disp = document.getElementById("display");
       document.getElementById("search").onkeyup = () => {
+        disp.innerHTML = "";
         let arr = [];
         for (const key in jsonData["Company Names"]) {
           if (
@@ -39,7 +38,26 @@
           ) {
             arr.push(key);
           }
-          document.getElementById("img").src = jsonData["image"][arr[0]];
+        }
+        console.log(arr);
+
+        for (key in arr) {
+          key = `${arr[key]}`;
+          let car = {
+            con: jsonData["Company Names"][key],
+            can: jsonData["Cars Names"][key],
+            e: jsonData["Engines"][key],
+            cc: jsonData["CC/Battery Capacity"][key],
+            hp: jsonData["HorsePower"][key],
+            ms: jsonData["Total Speed"][key],
+            pf: jsonData["Performance(0 - 100 )KM/H"][key],
+            p: jsonData["Cars Prices"][key],
+            ft: jsonData["Fuel Types"][key],
+            s: jsonData["Seats"][key],
+            t: jsonData["Torque"][key],
+            url: jsonData["image"][key],
+          };
+          disp.innerHTML += `<div class='car'><h2>${car.con + " " + car.can}</h2><img src='${car.url}' alt='car image' width='500' /></div>`;
         }
       };
     </script>
