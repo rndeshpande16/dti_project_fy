@@ -3,11 +3,62 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Special+Elite&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+      rel="stylesheet"
+    />
     <title>Document</title>
+    <style>
+      body {
+        margin: 0;
+      }
+      .car {
+        width: 100vw;
+        display: flex;
+        align-items: center;
+      }
+      .car-main {
+        font-family: "Special Elite", "Ubuntu", "Poppins", serif;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        padding: 20px;
+        min-width: 500px;
+      }
+      .car-desc {
+        font-family:
+          "Ubuntu", "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        padding: 20px;
+        width: 100%;
+      }
+      .car-desc {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+      }
+      .car-desc .info {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+      }
+      .car-desc .info section {
+        width: 100% !important;
+      }
+      .car img {
+        border-radius: 20px;
+      }
+      .car-desc .cost-heading {
+        font-size: 2.2vw;
+        font-weight: bold;
+      }
+    </style>
   </head>
   <body>
     <div id="search_bar">
-      <input type="search" name="search" id="search" />
+      <input type="search" name="search" id="search" value="Beetle" />
     </div>
     <hr />
     <div id="display"></div>
@@ -57,7 +108,30 @@
             t: jsonData["Torque"][key],
             url: jsonData["image"][key],
           };
-          disp.innerHTML += `<div class='car'><h2>${car.con + " " + car.can}</h2><img src='${car.url}' alt='car image' width='500' /></div>`;
+          disp.innerHTML += `<div class='car'>
+            <section class='car-main'>
+              <h2>${car.con + " " + car.can}</h2>
+              <picture>
+                <img src='${car.url}' loading='lazy' alt='car image' width='500' />
+              </picture>
+            </section>
+            <section class='car-desc'>
+              <p class='cost-heading'>${car.p}</p>
+              <section class='info'>
+                <section class='left'>
+                  <p><strong>Engine:</strong> ${car.e}</p>
+                  <p><strong>Engine Capacity:</strong> ${car.cc}</p>
+                  <p><strong>Power:</strong> ${car.hp}</p>
+                  <p><strong>Maximum Speed:</strong> ${car.ms}</p>
+                </section>
+                <section class='right'>
+                  <p><strong>Torque:</strong> ${car.t}</p>
+                  <p><strong>Seats:</strong> ${car.s}</p>
+                  <p><strong>Fuel Types:</strong> ${car.ft}</p>
+                  <p><strong>Acceleration (0-100 kph in):</strong> ${car.pf}</p>
+                </section>
+              </section>
+          </div>`;
         }
       };
     </script>
