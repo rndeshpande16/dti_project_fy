@@ -13,6 +13,7 @@
     <style>
       body {
         margin: 0;
+        padding: 0;
       }
       .car {
         width: 100vw;
@@ -33,8 +34,6 @@
           "Ubuntu", "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
         padding: 20px;
         width: 100%;
-      }
-      .car-desc {
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -42,22 +41,66 @@
       .car-desc .info {
         display: flex;
         justify-content: space-between;
-        width: 100%;
       }
       .car-desc .info section {
-        width: 100% !important;
+        width: 50%;
       }
       .car img {
         border-radius: 20px;
+        width: 30vw;
       }
       .car-desc .cost-heading {
         font-size: 2.2vw;
         font-weight: bold;
       }
+      #search-bar {
+        padding: 20px;
+      }
+      #search-bar input {
+        width: 100%;
+        border-radius: 15px;
+        border: none;
+        padding: 20px;
+        font-size: 2.2vw;
+        background-color: lightskyblue;
+      }
+      #search-bar input:active,
+      #search-bar input:focus {
+        outline: none;
+        border: none;
+        border-color: #0f1b2e;
+        border-collapse: collapse;
+        cursor: text;
+        background-color: #0f1b2e;
+        color: lightskyblue;
+        transition: 0.2s all ease-in;
+      }
+      @media screen and (max-width: 1120px) {
+        .car {
+          flex-direction: column;
+        }
+        .car-desc .cost-heading {
+          padding: 0px 20px;
+        }
+        .car h2 {
+          text-align: left;
+          width: 100%;
+        }
+        .car-desc .info {
+          padding: 0px 20px;
+        }
+        .car input,
+        .car .cost-heading {
+          font-size: 20px;
+        }
+        .car img {
+          width: 90vw;
+        }
+      }
     </style>
   </head>
   <body>
-    <div id="search_bar">
+    <div id="search-bar">
       <input type="search" name="search" id="search" value="Beetle" />
     </div>
     <hr />
@@ -71,7 +114,8 @@
           jsonData = data; // 2. Assign to outer variable
         });
       let disp = document.getElementById("display");
-      document.getElementById("search").onkeyup = () => {
+
+      document.getElementById("search").oninput = () => {
         disp.innerHTML = "";
         let arr = [];
         for (const key in jsonData["Company Names"]) {
@@ -112,7 +156,7 @@
             <section class='car-main'>
               <h2>${car.con + " " + car.can}</h2>
               <picture>
-                <img src='${car.url}' loading='lazy' alt='car image' width='500' />
+                <img src='${car.url}' loading='lazy' alt='car image' />
               </picture>
             </section>
             <section class='car-desc'>
